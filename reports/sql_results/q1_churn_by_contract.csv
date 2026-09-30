@@ -1,0 +1,4 @@
+contract,customers,churned,churn_rate_pct,avg_monthly_charges,monthly_revenue_lost,share_of_lost_revenue_pct
+Month-to-month,3875,1655,42.71,66.4,120847.1,86.86
+One year,1473,166,11.27,65.05,14118.45,10.15
+Two year,1695,48,2.83,60.77,4165.3,2.99

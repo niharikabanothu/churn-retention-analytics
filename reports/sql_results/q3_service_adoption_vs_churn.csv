@@ -1,0 +1,9 @@
+service_name,subscribers,churn_rate_subscribed_pct,churn_rate_not_subscribed_pct,churn_gap_pct_points
+OnlineSecurity,2019,14.61,41.77,27.16
+TechSupport,2044,15.17,41.64,26.47
+OnlineBackup,2429,21.53,39.93,18.4
+DeviceProtection,2422,22.5,39.13,16.63
+StreamingMovies,2732,29.94,33.68,3.74
+StreamingTV,2707,30.07,33.52,3.45
+MultipleLines,2629,31.95,31.72,-0.23
+PhoneService,4835,32.8,24.93,-7.88

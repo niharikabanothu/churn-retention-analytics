@@ -1,0 +1,3 @@
+segment,customers,churn_rate_pct,avg_monthly_charges,monthly_revenue_lost
+"Top-quartile spend, month-to-month",871,52.12,98.36,44608.1
+All other customers,6172,22.93,60.02,94522.75

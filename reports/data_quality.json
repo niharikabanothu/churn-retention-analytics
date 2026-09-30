@@ -1,0 +1,12 @@
+{
+  "rows": 7043,
+  "columns": 21,
+  "duplicate_customer_ids": 0,
+  "missing_values_as_loaded": 0,
+  "hidden_blank_total_charges": 11,
+  "tenure_of_blank_total_charges": [
+    0
+  ],
+  "churn_rate": 0.2654,
+  "pct_rows_total_vs_expected_gap_over_20pct": 0.84
+}

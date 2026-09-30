@@ -1,0 +1,6 @@
+tenure_cohort,customers,churned,churn_rate_pct,cumulative_share_of_churners_pct
+01. 0-6 months,1481,784,52.94,41.95
+02. 7-12 months,705,253,35.89,55.48
+03. 13-24 months,1024,294,28.71,71.21
+04. 25-48 months,1594,325,20.39,88.6
+05. 49-72 months,2239,213,9.51,100.0

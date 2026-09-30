@@ -1,0 +1,6 @@
+policy,customers_targeted,churners_reached,recall,net_savings_usd
+model_at_chosen_threshold,415,241,0.6443850267379679,25106.12
+model_at_default_0.5,580,294,0.786096256684492,22618.04
+rule_all_month_to_month,773,329,0.8796791443850267,6645.7
+rule_target_everyone,1409,374,1.0,-42926.36
+rule_target_nobody,0,0,0.0,0.0

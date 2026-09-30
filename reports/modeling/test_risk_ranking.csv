@@ -1,0 +1,1410 @@
+customerID,Contract,tenure,MonthlyCharges,churn_probability,target_for_offer,actual_churn
+5178-LMXOP,Month-to-month,1,95.1,0.95,1,1
+6861-XWTWQ,Month-to-month,7,99.25,0.9433,1,1
+8884-ADFVN,Month-to-month,7,101.95,0.9422,1,1
+0295-PPHDO,Month-to-month,1,95.45,0.9406,1,1
+1400-MMYXY,Month-to-month,3,105.9,0.9399,1,1
+6023-YEBUP,Month-to-month,3,100.95,0.9384,1,1
+9057-SIHCH,Month-to-month,3,96.6,0.936,1,1
+8161-QYMTT,Month-to-month,7,94.1,0.9359,1,0
+2545-EBUPK,Month-to-month,2,84.05,0.9339,1,0
+1069-XAIEM,Month-to-month,1,85.05,0.9331,1,1
+4750-ZRXIU,Month-to-month,4,84.6,0.9305,1,1
+6630-UJZMY,Month-to-month,4,83.25,0.9295,1,0
+2865-TCHJW,Month-to-month,4,89.2,0.9266,1,1
+3722-WPXTK,Month-to-month,1,88.35,0.9244,1,1
+0970-ETWGE,Month-to-month,1,89.55,0.9235,1,1
+4115-NZRKS,Month-to-month,7,89.15,0.9228,1,0
+8593-WHYHV,Month-to-month,3,85.3,0.9224,1,1
+4587-VVTOX,Month-to-month,6,105.3,0.9212,1,1
+1143-NMNQJ,Month-to-month,2,85.7,0.9206,1,1
+4927-WWOOZ,Month-to-month,2,91.45,0.9201,1,0
+6969-MVBAI,Month-to-month,9,90.1,0.9197,1,0
+2034-GDRCN,Month-to-month,2,90.4,0.918,1,1
+9611-CTWIH,Month-to-month,3,89.45,0.9167,1,1
+8739-XNIKG,Month-to-month,5,84.0,0.9161,1,0
+4713-LZDRV,Month-to-month,2,79.6,0.9156,1,1
+2027-FECZV,Month-to-month,12,106.7,0.9152,1,1
+9248-OJYKK,Month-to-month,1,76.45,0.9147,1,1
+6230-BSUXY,Month-to-month,1,85.0,0.9118,1,1
+8258-GSTJK,Month-to-month,3,77.0,0.9114,1,1
+7209-JCUDS,Month-to-month,10,94.9,0.9114,1,1
+6979-ZNSFF,Month-to-month,8,87.05,0.9107,1,1
+7249-WBIYX,Month-to-month,10,85.6,0.91,1,1
+2077-MPJQO,Month-to-month,7,75.4,0.9077,1,0
+6328-ZPBGN,Month-to-month,11,95.15,0.9074,1,1
+9334-GWGOW,Month-to-month,7,74.85,0.9065,1,0
+0655-RBDUG,Month-to-month,7,98.05,0.9059,1,1
+5698-BQJOH,Month-to-month,9,94.4,0.9046,1,1
+8622-ZLFKO,Month-to-month,6,90.75,0.9035,1,0
+3338-CVVEH,Month-to-month,12,94.55,0.9031,1,0
+2514-GINMM,Month-to-month,1,79.5,0.9015,1,1
+9878-TNQGW,Month-to-month,2,80.95,0.9013,1,1
+4415-IJZTP,Month-to-month,1,74.5,0.9009,1,1
+7130-VTEWQ,Month-to-month,8,75.75,0.9005,1,1
+3519-ZKXGG,Month-to-month,3,75.85,0.9002,1,1
+7817-BOQPW,Month-to-month,2,75.55,0.8997,1,1
+2202-CUYXZ,Month-to-month,1,84.85,0.8994,1,1
+2609-IAICY,Month-to-month,1,77.15,0.8983,1,1
+4806-KEXQR,Month-to-month,4,79.9,0.8979,1,1
+8443-ZRDBZ,Month-to-month,4,76.05,0.8974,1,1
+5052-PNLOS,Month-to-month,3,105.35,0.8969,1,1
+2959-MJHIC,Month-to-month,4,80.35,0.8964,1,1
+8083-YTZES,Month-to-month,4,74.35,0.8962,1,1
+1320-HTRDR,Month-to-month,3,75.5,0.8956,1,1
+4090-KPJIP,Month-to-month,3,74.95,0.8956,1,0
+4229-CZMLL,Month-to-month,6,74.9,0.8947,1,1
+3292-PBZEJ,Month-to-month,11,111.4,0.8931,1,0
+8752-STIVR,Month-to-month,4,79.0,0.8926,1,1
+3006-XIMLN,Month-to-month,2,94.2,0.8924,1,1
+5357-TZHPP,Month-to-month,9,84.4,0.8923,1,1
+4445-ZJNMU,Month-to-month,9,99.3,0.8908,1,0
+3320-VEOYC,Month-to-month,14,95.6,0.8899,1,0
+8541-QVFKM,Month-to-month,8,73.5,0.8897,1,0
+1628-BIZYP,Month-to-month,1,85.0,0.8894,1,0
+7363-QTBIW,Month-to-month,9,79.75,0.8891,1,0
+8375-DKEBR,Month-to-month,1,69.6,0.8891,1,1
+8775-ERLNB,Month-to-month,1,74.3,0.8887,1,0
+3030-YDNRM,Month-to-month,8,74.85,0.8887,1,0
+7354-OIJLX,Month-to-month,9,75.85,0.8882,1,0
+2495-INZWQ,Month-to-month,4,44.55,0.8872,1,1
+6000-APYLU,Month-to-month,9,80.8,0.8864,1,1
+7180-PISOG,Month-to-month,1,74.5,0.886,1,1
+4342-HENTK,Month-to-month,2,70.65,0.8859,1,1
+7181-BQYBV,Month-to-month,1,102.45,0.8858,1,1
+3199-XGZCY,Month-to-month,8,75.25,0.8852,1,0
+7218-HKQFK,Month-to-month,2,94.2,0.8851,1,1
+4706-AXVKM,Month-to-month,11,84.8,0.885,1,1
+8245-UMPYT,Month-to-month,16,96.4,0.8849,1,1
+5419-CONWX,Month-to-month,4,99.8,0.884,1,1
+6857-VWJDT,Month-to-month,1,95.65,0.8834,1,1
+7235-NXZCP,Month-to-month,2,74.85,0.8826,1,1
+7005-CCBKV,Month-to-month,6,84.4,0.8824,1,1
+8361-LTMKD,Month-to-month,4,74.4,0.881,1,1
+2754-SDJRD,Month-to-month,8,100.15,0.8786,1,0
+1016-DJTSV,Month-to-month,8,69.7,0.8774,1,0
+5167-ZFFMM,Month-to-month,1,90.85,0.8771,1,1
+2761-OCIAX,Month-to-month,2,74.7,0.877,1,1
+3716-BDVDB,Month-to-month,1,69.1,0.8768,1,1
+7273-TEFQD,Month-to-month,3,41.15,0.8764,1,1
+1820-TQVEV,Month-to-month,1,69.55,0.8763,1,1
+5542-TBBWB,Month-to-month,1,69.9,0.8759,1,0
+9804-ICWBG,Month-to-month,1,69.9,0.8759,1,1
+1980-KXVPM,Month-to-month,3,75.05,0.8756,1,1
+9221-OTIVJ,Month-to-month,14,104.85,0.875,1,1
+8699-ASUFO,Month-to-month,7,74.4,0.8739,1,1
+3750-CKVKH,Month-to-month,2,67.75,0.8735,1,1
+9717-QEBGU,Month-to-month,2,70.3,0.8735,1,0
+3244-DCJWY,Month-to-month,1,70.25,0.872,1,1
+5376-DEQCP,Month-to-month,1,70.6,0.8715,1,1
+0679-IDSTG,Month-to-month,1,69.25,0.8696,1,1
+3721-CNEYS,Month-to-month,2,70.95,0.8681,1,1
+5159-YFPKQ,Month-to-month,2,75.8,0.868,1,1
+2867-UIMSS,Month-to-month,1,80.5,0.8679,1,1
+3707-GNWHM,Month-to-month,1,74.25,0.8677,1,1
+0004-TLHLJ,Month-to-month,4,73.9,0.8667,1,1
+6372-RFVNS,Month-to-month,1,78.8,0.8665,1,1
+0841-NULXI,Month-to-month,1,35.55,0.8665,1,1
+6077-BDPXA,Month-to-month,3,70.15,0.8656,1,0
+2737-YNGYW,Month-to-month,2,80.55,0.8652,1,1
+3585-ISXZP,Month-to-month,8,95.65,0.8647,1,1
+7409-KIUTL,Month-to-month,1,71.0,0.8646,1,1
+6047-YHPVI,Month-to-month,5,69.7,0.8644,1,1
+1731-TVIUK,Month-to-month,4,93.5,0.8643,1,1
+1867-BDVFH,Month-to-month,11,74.35,0.8638,1,1
+2485-ITVKB,Month-to-month,2,35.1,0.8631,1,1
+7198-GLXTC,Month-to-month,2,79.0,0.8627,1,1
+6376-GAHQE,Month-to-month,4,77.85,0.8604,1,1
+5382-SOYZL,Month-to-month,22,95.1,0.8604,1,0
+2985-FMWYF,Month-to-month,23,93.5,0.8589,1,0
+9507-EXLTT,Month-to-month,1,79.35,0.8586,1,1
+6856-RAURS,Month-to-month,2,74.9,0.8586,1,0
+6892-XPFPU,Month-to-month,24,104.25,0.8578,1,1
+1475-VWVDO,Month-to-month,7,74.9,0.8574,1,0
+2482-CZGBB,Month-to-month,10,70.0,0.8549,1,1
+5196-SGOAK,Month-to-month,1,75.7,0.8541,1,1
+1853-UDXBW,Month-to-month,1,70.0,0.8538,1,1
+7928-VJYAB,Month-to-month,11,90.6,0.8536,1,0
+0235-KGSLC,Month-to-month,1,85.55,0.8533,1,1
+3422-LYEPQ,Month-to-month,1,71.0,0.8525,1,1
+3908-BLSYF,Month-to-month,6,83.9,0.8515,1,1
+0390-DCFDQ,Month-to-month,1,70.45,0.8502,1,1
+8873-GLDMH,Month-to-month,6,73.85,0.8492,1,0
+4735-ASGMA,Month-to-month,26,98.35,0.8492,1,1
+8380-PEFPE,Month-to-month,1,71.65,0.8485,1,1
+0685-MLYYM,Month-to-month,2,70.75,0.8483,1,1
+1768-ZAIFU,Month-to-month,1,25.2,0.8482,1,1
+8266-VBFQL,Month-to-month,4,90.4,0.8472,1,0
+5186-SAMNZ,Month-to-month,1,69.5,0.8469,1,1
+0432-CAJZV,Month-to-month,3,90.7,0.8465,1,0
+2254-DLXRI,Month-to-month,1,79.15,0.846,1,0
+9840-DVNDC,Month-to-month,6,80.5,0.8457,1,1
+1448-PWKYE,Month-to-month,1,80.0,0.8456,1,1
+3677-IYRBF,Month-to-month,2,30.4,0.8449,1,1
+7495-OOKFY,Month-to-month,8,80.65,0.8443,1,1
+7912-SYRQT,Month-to-month,7,75.1,0.8433,1,1
+6507-ZJSUR,Month-to-month,23,90.45,0.8427,1,0
+0258-NOKBL,Month-to-month,3,90.4,0.8424,1,0
+0923-PNFUB,Month-to-month,3,83.75,0.8398,1,1
+7029-RPUAV,Month-to-month,17,100.45,0.8394,1,1
+3877-JRJIP,Month-to-month,1,59.85,0.8391,1,1
+6705-LXORM,Month-to-month,5,70.05,0.8382,1,0
+6543-XRMYR,Month-to-month,30,99.7,0.8382,1,1
+2754-XBHTB,Month-to-month,9,77.65,0.8374,1,1
+6899-PPEEA,Month-to-month,37,96.55,0.837,1,1
+6137-NICCO,Month-to-month,6,94.05,0.8369,1,0
+2187-PKZAY,Month-to-month,12,79.95,0.8359,1,0
+8821-XNHVZ,Month-to-month,1,80.05,0.8359,1,1
+8397-MVTAZ,Month-to-month,34,100.05,0.8338,1,1
+9741-YLNTD,Month-to-month,6,87.95,0.8315,1,0
+1024-GUALD,Month-to-month,1,24.8,0.831,1,1
+2439-LYPMQ,Month-to-month,38,102.6,0.8305,1,0
+8132-YPVBX,Month-to-month,6,85.95,0.8296,1,0
+0871-URUWO,Month-to-month,13,102.25,0.8295,1,1
+5339-PXDVH,Month-to-month,4,90.65,0.8288,1,0
+0581-BXBUB,Month-to-month,4,72.75,0.8273,1,0
+0506-LVNGN,Month-to-month,5,75.55,0.8267,1,1
+1077-HUUJM,Month-to-month,7,71.05,0.8263,1,0
+9940-RHLFB,Month-to-month,1,75.3,0.8257,1,1
+4029-HPFVY,Month-to-month,3,70.3,0.8256,1,0
+4983-CCWMC,Month-to-month,3,69.6,0.8253,1,0
+5442-BHQNG,Month-to-month,2,70.35,0.8251,1,0
+5628-FCGYG,Month-to-month,21,84.1,0.825,1,0
+9685-WKZGT,Month-to-month,14,74.95,0.8248,1,1
+6712-OAWRH,Month-to-month,26,91.25,0.8245,1,1
+9279-CJEOJ,Month-to-month,21,95.4,0.8243,1,0
+1751-NCDLI,Month-to-month,46,98.85,0.8242,1,0
+6910-HADCM,Month-to-month,1,76.35,0.824,1,1
+9851-KIELU,Month-to-month,10,110.1,0.8226,1,1
+4631-OACRM,Month-to-month,15,79.4,0.8225,1,1
+2057-ZBLPD,Month-to-month,21,86.5,0.8215,1,1
+0330-IVZHA,Month-to-month,5,69.95,0.8185,1,1
+8650-RHRKE,Month-to-month,4,29.65,0.8184,1,1
+9576-ANLXO,Month-to-month,3,69.55,0.8163,1,1
+2845-HSJCY,Month-to-month,14,87.25,0.8163,1,1
+4873-ILOLJ,Month-to-month,24,90.35,0.8156,1,1
+4817-VYYWS,Month-to-month,30,100.2,0.8153,1,1
+1658-TJVOA,Month-to-month,6,74.1,0.8143,1,0
+6175-IRFIT,Month-to-month,5,78.75,0.8142,1,0
+2665-NPTGL,Month-to-month,26,98.1,0.8139,1,0
+8676-TRMJS,Month-to-month,3,75.0,0.8137,1,1
+8739-WWKDU,Month-to-month,25,89.5,0.8121,1,1
+8160-HOWOX,Month-to-month,7,66.85,0.8119,1,0
+4919-IKATY,Month-to-month,5,84.5,0.8118,1,1
+0576-WNXXC,Month-to-month,27,95.55,0.8102,1,1
+2041-JIJCI,Month-to-month,5,64.0,0.8094,1,0
+7571-YXDAD,Month-to-month,2,74.9,0.8092,1,1
+8709-KRDVL,Month-to-month,33,100.0,0.8083,1,0
+0958-YHXGP,Month-to-month,7,69.9,0.808,1,0
+3672-YITQD,Month-to-month,36,84.1,0.8078,1,1
+0616-ATFGB,Month-to-month,1,25.05,0.8076,1,1
+6338-AVWCY,Month-to-month,3,40.15,0.8072,1,1
+4283-FUTGF,Month-to-month,19,79.85,0.8067,1,1
+5380-WJKOV,Month-to-month,34,106.35,0.806,1,1
+6680-WKXRZ,Month-to-month,3,74.4,0.8042,1,1
+0388-EOPEX,Month-to-month,2,74.4,0.8041,1,1
+7603-USHJS,Month-to-month,12,73.75,0.8036,1,1
+5228-EXCET,Month-to-month,13,80.85,0.8025,1,1
+5501-TVMGM,Month-to-month,1,55.25,0.8007,1,0
+2501-XWWTZ,Month-to-month,11,70.2,0.8006,1,0
+2325-NBPZG,Month-to-month,3,74.55,0.7999,1,0
+1335-NTIUC,Month-to-month,9,24.95,0.7988,1,0
+0524-IAVZO,Month-to-month,30,85.0,0.7982,1,1
+4301-VVZKA,Month-to-month,16,75.4,0.7975,1,0
+8818-DOPVL,Month-to-month,46,104.45,0.797,1,0
+6319-IEJWJ,Month-to-month,20,90.2,0.7954,1,1
+3063-QFSZL,Month-to-month,1,55.4,0.7953,1,1
+7861-UVUFT,Month-to-month,15,84.3,0.795,1,1
+6331-LWDTQ,Month-to-month,10,72.15,0.7938,1,1
+7410-YTJIK,Month-to-month,7,75.45,0.7938,1,1
+7952-OBOYL,Month-to-month,3,89.85,0.7919,1,0
+1302-UHBDD,Month-to-month,20,89.95,0.7915,1,0
+1112-CUNAO,Month-to-month,15,89.85,0.791,1,1
+5480-HPRRX,Month-to-month,3,25.3,0.7902,1,1
+5144-TVGLP,Month-to-month,38,94.75,0.7902,1,0
+1522-VVDMG,Month-to-month,7,89.75,0.7889,1,1
+8621-MNIHH,Month-to-month,34,94.25,0.788,1,1
+7534-BFESC,Month-to-month,24,76.1,0.7878,1,1
+2919-HBCJO,Month-to-month,4,76.65,0.7874,1,1
+9054-FOWNV,Month-to-month,22,88.75,0.7868,1,0
+1379-FRVEB,Month-to-month,15,91.0,0.7859,1,0
+2860-RANUS,Month-to-month,20,85.8,0.7855,1,1
+3966-HRMZA,Month-to-month,3,75.05,0.7846,1,0
+0876-WDUUZ,Month-to-month,5,85.4,0.7845,1,1
+7056-IMHCC,Month-to-month,53,101.9,0.7841,1,1
+2309-OSFEU,Month-to-month,10,33.9,0.784,1,1
+0988-JRWWP,Month-to-month,3,54.2,0.7828,1,0
+1989-PRJHP,Month-to-month,27,75.5,0.7813,1,1
+0899-LIIBW,Month-to-month,34,100.85,0.7802,1,0
+4412-YLTKF,Month-to-month,27,78.05,0.7797,1,1
+8778-LMWTJ,Month-to-month,9,74.85,0.7792,1,0
+0778-NELLA,Month-to-month,9,34.7,0.7792,1,1
+4686-UXDML,Month-to-month,21,99.85,0.7765,1,0
+7278-CKDNC,Month-to-month,24,80.5,0.7746,1,0
+9227-LUNBG,Month-to-month,1,24.6,0.7735,1,1
+5760-FXFVO,Month-to-month,6,78.95,0.7718,1,0
+3858-VOBET,Month-to-month,23,74.95,0.7696,1,1
+3717-OEAUQ,Month-to-month,2,70.7,0.7695,1,0
+2025-JKFWI,Month-to-month,13,99.0,0.7689,1,1
+9050-QLROH,Month-to-month,18,90.7,0.7672,1,1
+8938-UMKPI,Month-to-month,47,106.4,0.7671,1,1
+0023-XUOPT,Month-to-month,13,94.1,0.7661,1,1
+9638-JIQYA,Month-to-month,2,24.9,0.7655,1,0
+8445-DNBAE,Month-to-month,1,50.05,0.7654,1,0
+4647-MUZON,Month-to-month,18,95.95,0.7648,1,0
+7881-EVUAD,Month-to-month,2,42.6,0.7644,1,1
+9747-DDZOS,Month-to-month,1,73.5,0.7634,1,1
+4512-ZUIYL,Month-to-month,2,70.0,0.7631,1,1
+9048-JVYVF,Month-to-month,3,69.35,0.7623,1,1
+6166-ILMNY,Month-to-month,2,69.75,0.7618,1,1
+2694-CIUMO,Month-to-month,12,79.55,0.7612,1,0
+5606-AMZBO,Month-to-month,10,78.15,0.7609,1,0
+8993-PHFWD,Month-to-month,3,25.25,0.7603,1,1
+9866-QEVEE,Month-to-month,19,86.0,0.7601,1,1
+8903-XEBGX,Month-to-month,2,55.3,0.76,1,0
+9572-WUKSB,Month-to-month,3,29.9,0.758,1,0
+3365-SAIGS,Month-to-month,17,83.55,0.7574,1,0
+1894-IGFSG,Month-to-month,22,89.25,0.7568,1,1
+7748-UMTRK,Month-to-month,30,101.3,0.7552,1,0
+3312-UUMZW,Month-to-month,32,98.85,0.7549,1,0
+9643-AVVWI,Month-to-month,3,80.0,0.7529,1,0
+5022-JNQEQ,Month-to-month,9,75.85,0.7525,1,0
+8393-DLHGA,Month-to-month,25,95.9,0.7525,1,1
+6651-AZVTJ,Month-to-month,49,99.8,0.7522,1,1
+6608-QQLVK,Month-to-month,1,50.5,0.7483,1,1
+1236-WFCDV,Month-to-month,14,90.45,0.748,1,1
+9979-RGMZT,One year,7,94.05,0.7477,1,0
+3587-PMCOY,One year,10,98.9,0.7471,1,0
+7587-RZNME,Month-to-month,3,43.3,0.7464,1,1
+1035-IPQPU,Month-to-month,63,103.5,0.7459,1,0
+9167-APMXZ,Month-to-month,22,84.15,0.745,1,0
+1319-YLZJG,Month-to-month,12,84.6,0.745,1,0
+0749-IRGQE,Month-to-month,13,45.3,0.7438,1,0
+8212-DJRCH,Month-to-month,5,90.35,0.7437,1,0
+3932-CMDTD,One year,4,105.65,0.7431,1,1
+4846-WHAFZ,Month-to-month,37,76.5,0.7425,1,1
+9692-TUSXH,Month-to-month,18,96.05,0.7418,1,1
+6543-CPZMK,Month-to-month,9,29.95,0.7414,1,1
+2782-LFZVW,Month-to-month,11,58.95,0.7413,1,0
+1436-ZMJAN,Month-to-month,10,67.8,0.7412,1,0
+6034-YMTOB,Month-to-month,5,75.65,0.7407,1,0
+5373-SFODM,Month-to-month,36,85.25,0.7405,1,1
+5759-RCVCB,Month-to-month,3,35.2,0.7388,1,1
+9465-RWMXL,Month-to-month,32,78.9,0.738,1,1
+8696-JKZNU,Month-to-month,37,76.25,0.7377,1,1
+0581-MDMPW,Month-to-month,24,88.95,0.7375,1,0
+0376-YMCJC,Month-to-month,23,90.6,0.737,1,1
+2386-LAHRK,Month-to-month,1,53.5,0.7361,1,1
+9779-DPNEJ,Month-to-month,22,80.15,0.7355,1,0
+1092-GANHU,Month-to-month,17,76.65,0.7352,1,1
+8714-EUHJO,Month-to-month,31,91.15,0.7349,1,1
+9907-SWKKF,Month-to-month,1,25.05,0.7347,1,1
+2800-QQUSO,Month-to-month,42,100.3,0.734,1,0
+6661-HBGWL,Month-to-month,42,104.75,0.7336,1,1
+4547-LYTDD,Month-to-month,16,72.65,0.733,1,1
+5889-JTMUL,Month-to-month,50,95.05,0.731,1,1
+5331-RGMTT,Month-to-month,54,99.05,0.7301,1,0
+6821-BUXUX,Month-to-month,13,96.65,0.7296,1,1
+5226-NOZFC,Month-to-month,26,85.75,0.7266,1,0
+6377-WHAOX,Month-to-month,60,106.15,0.7258,1,0
+6402-EJMWF,Month-to-month,4,55.3,0.7256,1,0
+8059-UDZFY,Month-to-month,33,105.35,0.7247,1,0
+8849-AYPTR,Month-to-month,33,91.25,0.7241,1,0
+8785-CJSHH,Month-to-month,60,99.8,0.7239,1,0
+3334-CTHOL,Month-to-month,1,49.95,0.7232,1,1
+4317-VTEOA,Month-to-month,1,50.75,0.7231,1,1
+9752-ZNQUT,Month-to-month,1,48.6,0.7214,1,0
+7855-DIWPO,Month-to-month,21,68.65,0.7213,1,0
+6048-QBXKL,Month-to-month,2,56.55,0.7209,1,0
+7404-JLKQG,Month-to-month,3,57.55,0.7206,1,0
+7279-BUYWN,Month-to-month,41,113.2,0.7199,1,1
+0082-OQIQY,Month-to-month,29,94.2,0.7199,1,0
+2606-RMDHZ,Month-to-month,6,30.5,0.7194,1,1
+7851-FLGGQ,Month-to-month,1,44.65,0.7192,1,1
+8058-DMYRU,Month-to-month,54,90.05,0.7186,1,0
+8378-LKJAF,Month-to-month,38,101.15,0.7179,1,0
+0096-BXERS,Month-to-month,6,50.35,0.717,1,0
+8080-DDEMJ,Month-to-month,1,45.1,0.7164,1,1
+4706-DGAHW,Month-to-month,1,45.2,0.7161,1,0
+5650-YLIBA,Month-to-month,31,81.15,0.7155,1,0
+6704-UTUKK,Month-to-month,29,45.9,0.7138,1,0
+0963-ZBDRN,Month-to-month,32,96.2,0.7135,1,1
+4360-PNRQB,Month-to-month,18,75.6,0.7133,1,0
+7460-ITWWP,Month-to-month,45,86.1,0.7131,1,0
+4570-QHXHL,Month-to-month,9,43.75,0.7127,1,0
+9944-AEXBM,Month-to-month,32,85.65,0.7126,1,0
+9450-TRJUU,Month-to-month,35,83.15,0.7125,1,0
+4581-LNWUM,Month-to-month,13,49.15,0.7116,1,0
+8601-QACRS,Month-to-month,5,50.6,0.7112,1,1
+8914-RBTSB,Month-to-month,31,93.8,0.7111,1,1
+9389-ACWBI,Month-to-month,5,69.95,0.7107,1,0
+4818-QIUFN,Month-to-month,20,79.15,0.7093,1,1
+6158-HDPXZ,Month-to-month,1,25.35,0.7091,1,0
+4947-DSMXK,Month-to-month,34,97.7,0.7087,1,0
+2277-DJJDL,Month-to-month,60,99.0,0.7068,1,0
+0256-LTHVJ,Month-to-month,28,81.05,0.7068,1,1
+6481-ESCNL,Month-to-month,29,100.55,0.7065,1,0
+5281-BUZGT,Month-to-month,36,90.85,0.7055,1,1
+1902-XBTFB,Month-to-month,22,89.4,0.7048,1,1
+3312-ZWLGF,Month-to-month,29,79.3,0.7048,1,0
+6542-LWGXJ,Month-to-month,3,25.0,0.7047,1,0
+5129-JLPIS,Month-to-month,25,105.5,0.7045,1,0
+7470-MCQTK,Month-to-month,13,48.75,0.7042,1,1
+3780-YVMFA,Month-to-month,8,68.55,0.7041,1,0
+7529-ZDFXI,Month-to-month,57,89.85,0.7041,1,0
+6557-BZXLQ,Month-to-month,16,69.65,0.7039,1,0
+1833-TCXKK,Month-to-month,45,107.75,0.702,1,0
+1965-DDBWU,Month-to-month,16,89.05,0.7,1,1
+4840-ORQXB,Month-to-month,56,104.75,0.6967,1,0
+4905-JEFDW,One year,11,41.6,0.6965,1,1
+9283-LZQOH,Month-to-month,13,74.4,0.6954,1,1
+9508-ILZDG,Month-to-month,34,96.35,0.6943,1,0
+2203-GHNWN,Month-to-month,24,79.65,0.6938,1,0
+7018-WBJNK,Month-to-month,13,78.3,0.6937,1,0
+2988-PLAHS,One year,3,69.95,0.6936,1,0
+6284-AHOOQ,Month-to-month,22,90.5,0.6931,1,1
+9842-EFSYY,Month-to-month,4,57.2,0.6929,1,0
+0682-USIXD,Month-to-month,21,86.05,0.6896,1,0
+3891-PUQOD,Month-to-month,1,59.2,0.6891,1,1
+9927-DSWDF,Month-to-month,22,104.6,0.6885,1,0
+9278-VZKCD,Month-to-month,52,109.1,0.6883,1,0
+7129-ACFOG,Month-to-month,5,53.8,0.6869,1,0
+2955-BJZHG,Month-to-month,17,80.85,0.6867,1,1
+1942-OQFRW,Month-to-month,1,44.0,0.6862,1,0
+3524-WQDSG,Month-to-month,43,99.3,0.6862,1,0
+0952-KMEEH,Month-to-month,13,98.15,0.6849,1,1
+1452-KIOVK,Month-to-month,22,89.1,0.6842,1,0
+2587-EKXTS,Month-to-month,44,111.5,0.6842,1,0
+8158-WPEZG,Month-to-month,11,35.65,0.6841,1,0
+7663-RGWBC,Month-to-month,1,44.15,0.6821,1,1
+5016-IBERQ,Month-to-month,23,84.25,0.6809,1,0
+4658-HCOHW,Month-to-month,21,102.8,0.6802,1,1
+2277-VWCNI,Month-to-month,4,48.75,0.6789,1,0
+5133-POWUA,Month-to-month,1,45.8,0.6783,1,0
+4237-RLAQD,Month-to-month,1,45.85,0.6781,1,1
+0322-CHQRU,Month-to-month,2,45.35,0.6776,1,1
+2452-KDRRH,Month-to-month,67,101.4,0.6759,1,0
+0310-MVLET,Month-to-month,61,99.15,0.6751,1,1
+0531-ZZJWQ,Month-to-month,55,74.0,0.673,1,0
+7503-QQRVF,Month-to-month,16,74.3,0.6729,1,1
+5461-QKNTN,Month-to-month,43,94.3,0.6725,1,0
+5692-FPTAH,Month-to-month,1,45.4,0.6723,1,1
+6173-GOLSU,Month-to-month,67,94.65,0.6706,1,0
+9576-SYUHJ,Month-to-month,37,91.15,0.6703,1,0
+1100-DDVRV,Month-to-month,17,49.8,0.6701,1,0
+3627-FHKBK,Month-to-month,1,75.3,0.6699,1,1
+6022-UGGSO,Month-to-month,32,74.4,0.6691,1,1
+9512-UIBFX,Month-to-month,18,95.15,0.6691,1,1
+8280-MQRQN,Month-to-month,1,50.45,0.6678,1,1
+6834-NXDCA,Month-to-month,13,23.9,0.6678,1,1
+5351-QESIO,Month-to-month,1,24.2,0.6663,1,0
+2911-WDXMV,Month-to-month,18,80.55,0.6648,1,0
+6317-YPKDH,Month-to-month,1,29.95,0.6624,1,1
+4323-SADQS,Month-to-month,7,34.5,0.662,1,1
+6128-AQBMT,Month-to-month,41,53.95,0.6618,1,0
+2070-FNEXE,Month-to-month,7,76.45,0.6615,1,1
+2720-FVBQP,Month-to-month,6,48.95,0.6613,1,0
+6080-TCMYC,Month-to-month,40,81.2,0.6601,1,0
+1536-HBSWP,Month-to-month,1,49.9,0.6573,1,0
+5651-YLPRD,Month-to-month,32,86.1,0.6562,1,0
+9286-DOJGF,Month-to-month,38,74.95,0.6555,1,1
+4154-AQUGT,Month-to-month,13,89.05,0.6554,1,1
+7181-OQCUT,Month-to-month,21,103.85,0.6529,1,0
+9710-ZUSHQ,Month-to-month,37,106.75,0.6525,1,1
+3094-JOJAI,Month-to-month,18,74.15,0.6523,1,0
+6729-GDNGC,Month-to-month,20,80.7,0.6519,1,0
+4678-DVQEO,Month-to-month,1,52.2,0.6517,1,1
+4226-KKDON,Month-to-month,8,66.65,0.6492,0,0
+7277-OZCGZ,Month-to-month,22,89.05,0.6483,0,0
+0015-UOCOJ,Month-to-month,7,48.2,0.6482,0,0
+3197-ARFOY,Month-to-month,19,105.0,0.6481,0,0
+1465-LNTLJ,Month-to-month,8,64.4,0.6477,0,0
+9369-XFEHK,Month-to-month,33,80.6,0.6475,0,1
+0599-XNYDO,Month-to-month,20,69.8,0.6464,0,0
+1587-FKLZB,Month-to-month,66,99.5,0.6461,0,1
+1471-GIQKQ,Month-to-month,1,49.95,0.6443,0,0
+6710-HSJRD,Month-to-month,61,114.1,0.643,0,0
+9420-LOJKX,Month-to-month,15,99.1,0.6416,0,1
+2178-PMGCJ,Month-to-month,22,69.7,0.6392,0,0
+9992-UJOEL,Month-to-month,2,50.3,0.6391,0,0
+4248-QPAVC,Month-to-month,17,85.35,0.6383,0,1
+2971-SGAFL,Month-to-month,13,78.75,0.6376,0,0
+4829-AUOAX,Month-to-month,46,96.05,0.6375,0,1
+3569-EDBPQ,Month-to-month,24,84.35,0.636,0,0
+4619-EVPHY,One year,20,91.0,0.6343,0,0
+6304-IJFSQ,Month-to-month,3,49.9,0.633,0,1
+7669-LCRSD,Month-to-month,12,56.3,0.6326,0,0
+3331-HQDTW,Month-to-month,34,109.8,0.6319,0,1
+4208-UFFGW,Month-to-month,2,44.95,0.6313,0,1
+2101-RANCD,Month-to-month,55,73.1,0.6308,0,0
+4223-WOZCM,Month-to-month,2,49.95,0.6304,0,0
+0410-IPFTY,Month-to-month,31,83.85,0.6304,0,0
+7504-UWHNB,Month-to-month,25,69.75,0.6296,0,0
+0363-QJVFX,Month-to-month,32,108.15,0.6287,0,1
+3237-AJGEH,Month-to-month,3,31.0,0.6285,0,1
+9089-UOWJG,Month-to-month,12,58.35,0.6276,0,0
+2227-JRSJX,Month-to-month,21,99.15,0.6273,0,0
+9732-KPKBW,Month-to-month,1,53.95,0.6264,0,1
+0430-IHCDJ,Month-to-month,15,49.0,0.626,0,0
+1261-FWTTE,Month-to-month,23,34.65,0.6254,0,0
+6711-VTNRE,Month-to-month,36,87.55,0.6247,0,1
+2480-SQIOB,Month-to-month,4,44.8,0.6243,0,0
+4760-THGOT,Month-to-month,43,94.1,0.6242,0,0
+0422-UXFAP,One year,51,98.85,0.6228,0,0
+2604-IJPDU,Month-to-month,20,96.55,0.6226,0,0
+3207-OYBWH,Month-to-month,57,95.25,0.6218,0,1
+1346-UFHAX,Month-to-month,13,80.0,0.6205,0,0
+5301-GAUUY,Month-to-month,32,80.35,0.6194,0,1
+5828-AVIPD,One year,19,100.95,0.6189,0,1
+3173-NVMPX,Month-to-month,9,55.3,0.6185,0,0
+9381-NDKME,Month-to-month,24,40.65,0.6164,0,1
+1816-FLZDK,Month-to-month,1,29.15,0.6157,0,0
+3540-RZJYU,Month-to-month,15,86.2,0.6145,0,1
+3923-CSIHK,Month-to-month,50,71.05,0.6142,0,1
+3374-LXDEV,Month-to-month,13,89.4,0.6129,0,1
+5609-IMCGG,Month-to-month,15,84.35,0.6123,0,0
+4526-ZJJTM,Month-to-month,25,88.4,0.6098,0,0
+2432-TFSMK,One year,18,89.6,0.6095,0,0
+4329-YPDDQ,Month-to-month,20,108.2,0.6076,0,0
+1357-BIJKI,One year,50,98.25,0.6068,0,0
+3658-KIBGF,Month-to-month,1,54.9,0.606,0,1
+8988-ECPJR,Month-to-month,34,79.6,0.6057,0,1
+6825-UYPFK,Month-to-month,23,75.6,0.6057,0,1
+9812-GHVRI,Month-to-month,40,83.85,0.6056,0,0
+9112-WSNPU,Month-to-month,35,70.55,0.6056,0,0
+4724-WXVWF,Month-to-month,48,95.4,0.6052,0,0
+2386-OWURY,Month-to-month,58,95.3,0.6035,0,0
+3466-RITXD,Month-to-month,26,92.4,0.6033,0,0
+1205-WNWPJ,Month-to-month,7,59.5,0.6024,0,1
+6946-LMSQS,One year,25,89.05,0.6,0,1
+3018-TFTSU,Month-to-month,12,81.7,0.5994,0,1
+5419-KLXBN,Month-to-month,25,89.15,0.599,0,1
+1310-QRITU,Month-to-month,18,50.3,0.5985,0,0
+0013-MHZWF,Month-to-month,9,69.4,0.5981,0,0
+6845-RGTYS,Month-to-month,47,98.75,0.596,0,1
+0823-HSCDJ,Month-to-month,52,49.15,0.5952,0,1
+4672-FOTSD,Month-to-month,12,67.25,0.5946,0,0
+2672-OJQZP,Month-to-month,1,44.75,0.5945,0,0
+4993-JCRGJ,Month-to-month,26,84.3,0.5941,0,0
+9700-ISPUP,Month-to-month,10,65.5,0.5937,0,0
+9822-WMWVG,Month-to-month,41,106.5,0.5933,0,0
+6646-QVXLR,One year,62,103.75,0.5931,0,1
+7579-OOPEC,Month-to-month,2,50.15,0.5931,0,1
+0979-PHULV,Month-to-month,69,99.45,0.5929,0,1
+7054-LGEQW,Month-to-month,1,45.95,0.5914,0,1
+9819-FBNSV,Month-to-month,37,72.25,0.5894,0,0
+1895-QTKDO,Month-to-month,1,43.95,0.5894,0,0
+5213-TWWJU,Month-to-month,28,91.0,0.5875,0,0
+0730-KOAVE,Month-to-month,30,94.3,0.5828,0,0
+2960-NKRSO,Month-to-month,24,85.95,0.5822,0,0
+4690-LLKUA,Month-to-month,17,45.05,0.5802,0,1
+3787-TRIAL,Month-to-month,21,26.05,0.5796,0,0
+8840-DQLGN,Month-to-month,35,100.5,0.5759,0,1
+9079-YEXQJ,Month-to-month,54,111.1,0.5753,0,1
+0365-GXEZS,Month-to-month,18,78.2,0.5745,0,0
+7067-KSAZT,One year,65,106.25,0.5737,0,1
+4983-CLMLV,Month-to-month,52,102.7,0.5736,0,0
+6429-SHBCB,Month-to-month,19,69.6,0.5732,0,0
+5934-TSSAU,Month-to-month,23,75.3,0.5721,0,0
+4067-HLYQI,Month-to-month,33,70.4,0.5693,0,0
+9661-MHUMO,Month-to-month,1,49.25,0.5665,0,1
+7055-HNEOJ,Month-to-month,3,55.8,0.5647,0,0
+3594-KADLU,Month-to-month,3,35.1,0.5634,0,0
+9327-QSDED,Month-to-month,8,43.55,0.5631,0,0
+0486-HECZI,Month-to-month,55,96.75,0.5628,0,1
+6257-RJOHI,Month-to-month,4,50.8,0.5603,0,0
+4660-IRIBM,Month-to-month,18,87.9,0.5596,0,0
+7733-UDMTP,Month-to-month,57,55.0,0.5586,0,0
+8623-ULFNQ,Month-to-month,26,66.05,0.5575,0,0
+6234-PFPXL,Month-to-month,22,95.9,0.5563,0,0
+8805-JNRAZ,Month-to-month,2,49.2,0.556,0,0
+5186-EJEGL,Month-to-month,9,69.5,0.5558,0,0
+8455-HIRAQ,Month-to-month,8,44.45,0.5556,0,0
+8757-TFHHJ,Month-to-month,1,49.8,0.5547,0,0
+1541-ETJZO,Month-to-month,1,62.05,0.554,0,1
+2478-EEWWM,Month-to-month,59,44.3,0.5532,0,0
+9767-FFLEM,Month-to-month,38,69.5,0.5515,0,0
+1169-WCVAK,Month-to-month,19,88.8,0.5509,0,0
+0327-WFZSY,One year,39,100.0,0.5487,0,0
+0701-TJSEF,Month-to-month,9,68.25,0.5482,0,0
+5600-PDUJF,Month-to-month,6,49.5,0.5467,0,0
+4396-KLSEH,Month-to-month,4,19.85,0.5462,0,0
+5575-TPIZQ,Month-to-month,46,89.15,0.5451,0,0
+9544-PYPSJ,Month-to-month,62,96.1,0.5443,0,0
+5136-GFPMB,Month-to-month,54,89.4,0.5437,0,0
+2522-AHJXR,Month-to-month,60,109.45,0.5428,0,0
+3567-PQTSO,One year,53,105.25,0.5422,0,0
+1370-GGAWX,One year,46,94.15,0.5421,0,0
+7250-EQKIY,Month-to-month,1,50.45,0.5418,0,1
+4937-QPZPO,One year,61,99.9,0.5412,0,0
+7750-EYXWZ,One year,12,60.65,0.5405,0,0
+1559-DTODC,Month-to-month,19,25.15,0.5397,0,0
+0719-SYFRB,Month-to-month,12,61.65,0.5394,0,1
+5103-MHMHY,Month-to-month,1,45.95,0.5393,0,1
+2692-PFYTJ,Month-to-month,1,25.75,0.5385,0,0
+6854-EXGSF,Month-to-month,8,65.5,0.5367,0,0
+5804-HYIEZ,Month-to-month,70,106.05,0.535,0,0
+1550-LOAHA,Month-to-month,32,84.15,0.5342,0,1
+2139-FQHLM,Month-to-month,19,89.95,0.5333,0,0
+6713-OKOMC,Month-to-month,10,29.75,0.5328,0,0
+8728-SKJLR,Month-to-month,41,74.25,0.5327,0,0
+0265-PSUAE,Month-to-month,16,100.7,0.5313,0,0
+7876-BEUTG,Month-to-month,15,48.8,0.5296,0,0
+2770-NSVDG,Month-to-month,24,29.1,0.5288,0,0
+7623-TRNQN,Month-to-month,1,49.9,0.5277,0,1
+3069-SSVSN,One year,1,25.85,0.5267,0,0
+3604-WLABM,Month-to-month,10,54.25,0.5255,0,0
+6227-HWPWX,Month-to-month,15,69.0,0.5244,0,1
+2108-YKQTY,Month-to-month,4,50.7,0.5227,0,1
+8033-VCZGH,One year,50,103.95,0.5218,0,0
+6769-DYBQN,Month-to-month,46,85.0,0.5215,0,1
+5630-AHZIL,Month-to-month,3,64.5,0.521,0,0
+6874-SGLHU,One year,30,97.0,0.5201,0,0
+5207-PLSTK,Month-to-month,1,48.75,0.5183,0,0
+7054-ENNGU,Month-to-month,9,50.85,0.5161,0,0
+1809-DMJHQ,Month-to-month,5,46.0,0.5143,0,1
+1848-LBZHY,Month-to-month,7,50.3,0.5136,0,0
+7251-LJBQN,One year,40,103.75,0.5135,0,0
+1956-YIFGE,One year,22,100.05,0.5127,0,0
+2279-AXJJK,Month-to-month,52,95.65,0.5126,0,0
+2190-BCXEC,Month-to-month,40,78.85,0.5114,0,0
+6770-XUAGN,Month-to-month,1,21.0,0.511,0,1
+0431-APWVY,One year,28,90.1,0.5103,0,1
+7251-XFOIL,Month-to-month,61,89.2,0.5102,0,0
+2293-IJWPS,One year,57,100.75,0.5096,0,0
+6664-FPDAC,One year,56,111.95,0.5088,0,1
+1575-KRZZE,Month-to-month,4,55.2,0.5039,0,0
+1174-FGIFN,One year,28,90.45,0.5039,0,0
+1217-VASWC,One year,43,100.55,0.5015,0,0
+2391-SOORI,Month-to-month,4,49.35,0.5011,0,1
+7854-EKTJL,Month-to-month,2,19.6,0.5011,0,1
+5949-HGVJL,Month-to-month,26,73.05,0.5004,0,0
+2257-BOVXD,Month-to-month,14,66.6,0.4997,0,0
+5402-HTOTQ,Month-to-month,16,55.3,0.4979,0,0
+4256-ZWTZI,Month-to-month,5,51.0,0.4979,0,0
+2480-EJWYP,One year,58,97.8,0.4965,0,0
+4640-UHDOS,Month-to-month,13,55.95,0.4959,0,1
+4468-YDOVK,Month-to-month,5,48.65,0.4956,0,0
+7124-UGSUR,One year,61,104.4,0.4954,0,1
+6559-RAKOZ,One year,49,97.95,0.4953,0,0
+3756-VNWDH,One year,65,100.75,0.4913,0,0
+7629-WIXZF,One year,7,59.1,0.4908,0,0
+0058-EVZWM,Month-to-month,55,89.8,0.4906,0,0
+0471-ARVMX,One year,62,104.85,0.4902,0,0
+8450-JOVAH,Month-to-month,2,56.7,0.4889,0,1
+5949-EBSQK,Month-to-month,4,61.45,0.4864,0,1
+2924-KHUVI,One year,56,100.55,0.4854,0,0
+0913-XWSCN,Month-to-month,55,85.5,0.4842,0,0
+6898-MDLZW,Month-to-month,12,53.75,0.484,0,0
+6270-OMFIW,One year,60,94.4,0.4833,0,1
+7893-IXHRQ,Month-to-month,1,20.55,0.4814,0,1
+3466-WAESX,Month-to-month,16,69.1,0.4812,0,0
+4667-OHGKG,Month-to-month,1,19.3,0.4804,0,1
+7426-WEIJX,Month-to-month,60,80.95,0.4803,0,0
+0742-MOABM,Month-to-month,4,50.05,0.4794,0,1
+5482-NUPNA,Month-to-month,4,60.4,0.479,0,1
+2369-FEVNO,Month-to-month,1,19.9,0.4788,0,0
+1470-PSXNM,One year,49,93.65,0.4784,0,0
+1360-JYXKQ,One year,54,99.1,0.4784,0,0
+1240-KNSEZ,Month-to-month,1,20.1,0.4782,0,1
+8992-CEUEN,Month-to-month,1,18.85,0.4781,0,0
+5438-QMDDL,Month-to-month,19,59.8,0.4778,0,0
+4695-VADHF,Month-to-month,18,57.45,0.4776,0,1
+6284-KMNUF,One year,56,98.0,0.4772,0,0
+6815-ABQFQ,One year,56,107.25,0.477,0,0
+7398-LXGYX,Month-to-month,44,84.8,0.4763,0,0
+4819-HJPIW,Month-to-month,18,25.15,0.4733,0,0
+2669-QVCRG,Month-to-month,41,81.3,0.4731,0,0
+8620-RJPZN,Month-to-month,1,20.7,0.4731,0,0
+1622-HSHSF,Month-to-month,1,19.55,0.4719,0,0
+7853-WNZSY,Month-to-month,1,19.75,0.4717,0,0
+4160-AMJTL,Month-to-month,8,19.65,0.4692,0,1
+3982-XWFZQ,Month-to-month,42,50.25,0.4687,0,1
+1493-AMTIE,Month-to-month,1,20.2,0.4672,0,1
+9481-SFCQY,Month-to-month,14,59.8,0.4649,0,0
+6184-DYUOB,Month-to-month,3,19.6,0.4637,0,0
+4693-VWVBO,Month-to-month,3,19.55,0.4635,0,0
+3594-IVHJZ,Month-to-month,2,20.45,0.4633,0,0
+6483-OATDN,Month-to-month,8,51.3,0.4633,0,0
+8190-ZTQFB,One year,41,51.35,0.4624,0,0
+5136-RGMZO,Month-to-month,31,71.05,0.4624,0,0
+8713-IGZSO,Month-to-month,2,24.85,0.4606,0,0
+2955-PSXOE,Month-to-month,1,20.2,0.4593,0,1
+1087-UDSIH,Month-to-month,3,19.6,0.4587,0,1
+0463-WZZKO,Month-to-month,3,20.75,0.457,0,0
+5198-EFNBM,One year,57,90.65,0.4564,0,0
+7266-GSSJX,Month-to-month,11,20.45,0.4564,0,0
+3339-EAQNV,One year,72,97.25,0.4551,0,0
+0959-WHOKV,One year,42,99.0,0.4504,0,0
+7410-KTVFV,Month-to-month,18,49.55,0.4494,0,1
+6473-ULUHT,Month-to-month,16,84.9,0.4474,0,0
+9033-EOXWV,One year,12,74.05,0.4473,0,1
+1074-AMIOH,Month-to-month,53,108.25,0.4453,0,0
+4541-RMRLG,Month-to-month,7,19.25,0.4429,0,1
+3780-DDGSE,Month-to-month,35,76.05,0.4422,0,0
+1386-ZIKUV,Month-to-month,7,18.95,0.4415,0,0
+9788-YTFGE,Month-to-month,7,19.95,0.4401,0,0
+3325-FUYCG,One year,28,106.1,0.4393,0,1
+3694-GLTJM,Month-to-month,5,19.65,0.4371,0,0
+4945-RVMTE,Month-to-month,28,59.55,0.4366,0,0
+8166-ORCHU,One year,33,93.55,0.4364,0,0
+6773-LQTVT,Month-to-month,29,35.65,0.4349,0,0
+3313-QKNKB,One year,59,85.55,0.4326,0,1
+2195-VVRJF,Month-to-month,18,59.1,0.432,0,0
+9374-YOLBJ,Month-to-month,1,19.25,0.4305,0,0
+9025-ZRPVR,Month-to-month,9,18.95,0.43,0,1
+2828-SLQPF,Month-to-month,19,45.0,0.43,0,0
+3679-XASPY,Month-to-month,1,19.45,0.4299,0,0
+6258-NGCNG,Month-to-month,7,23.5,0.4291,0,0
+9163-GHAYE,Month-to-month,15,48.85,0.4287,0,0
+7395-XWZOY,Month-to-month,20,55.0,0.4259,0,0
+9629-NHXFW,Month-to-month,1,19.4,0.4258,0,0
+7919-ZODZZ,One year,10,65.9,0.4241,0,0
+8985-OOPOS,One year,1,74.1,0.424,0,0
+2778-OCLGR,Month-to-month,24,39.1,0.4232,0,1
+1110-KYLGQ,Month-to-month,63,108.25,0.423,0,0
+7957-RYHQD,Month-to-month,40,79.2,0.4228,0,1
+0668-OGMHD,Month-to-month,21,28.5,0.4223,0,0
+2758-RNWXS,One year,35,89.2,0.4202,0,0
+2750-BJLSB,One year,47,103.7,0.4202,0,0
+8495-PRWFH,Month-to-month,42,55.65,0.416,0,0
+4753-PADAS,One year,67,105.7,0.4155,0,0
+4524-QCSSM,Month-to-month,26,44.65,0.4154,0,0
+4184-VODJZ,One year,63,91.35,0.4152,0,0
+2995-UPRYS,One year,40,99.2,0.415,0,1
+0870-VEMYL,Month-to-month,5,53.85,0.4147,0,1
+3847-BAERP,Month-to-month,10,20.9,0.4129,0,0
+9537-VHDTA,Month-to-month,1,51.2,0.4129,0,0
+1784-BXEFA,Month-to-month,10,20.55,0.4092,0,0
+9701-CDXHR,Month-to-month,51,69.15,0.4085,0,0
+1855-CFULU,Month-to-month,4,20.05,0.4069,0,0
+1385-TQOZW,Month-to-month,9,20.45,0.4069,0,0
+9103-TCIHJ,Month-to-month,15,55.7,0.4062,0,1
+9820-RMCQV,Month-to-month,11,48.55,0.4044,0,1
+7134-MJPDY,One year,66,102.85,0.4035,0,0
+9844-FELAJ,One year,70,107.9,0.3991,0,0
+6777-TGHTM,One year,53,106.95,0.3972,0,1
+1015-OWJKI,Month-to-month,1,19.05,0.3969,0,0
+2446-ZKVAF,Month-to-month,18,56.8,0.3965,0,0
+5766-ZJYBB,Month-to-month,1,19.4,0.3959,0,1
+3930-ZGWVE,Month-to-month,1,19.75,0.395,0,0
+7239-HZZCX,Month-to-month,1,19.75,0.395,0,1
+4892-VLANZ,Month-to-month,1,19.8,0.3949,0,1
+0516-OOHAR,One year,28,100.35,0.3948,0,0
+6286-SUUWT,Month-to-month,1,19.95,0.3945,0,0
+8749-CLJXC,Month-to-month,1,20.05,0.3943,0,0
+4211-MMAZN,Month-to-month,1,20.25,0.3937,0,1
+9122-UMROB,Month-to-month,1,20.3,0.3936,0,0
+2668-TZSPS,Month-to-month,1,20.45,0.3932,0,0
+4237-CLSMM,Month-to-month,2,20.0,0.3932,0,0
+3976-NLDEZ,Month-to-month,1,20.6,0.3928,0,0
+4013-GUXND,Month-to-month,1,20.8,0.3923,0,0
+1707-HABPF,One year,46,91.3,0.3914,0,0
+4003-FUSHP,Month-to-month,19,61.55,0.3888,0,0
+2308-STERM,Month-to-month,2,19.4,0.3887,0,0
+5469-CTCWN,One year,61,106.0,0.3887,0,1
+5951-AOFIH,Month-to-month,33,66.4,0.3884,0,0
+7789-CRUVC,Month-to-month,61,94.2,0.3874,0,0
+6654-QGBZZ,Month-to-month,1,19.9,0.3871,0,0
+0816-TSPHQ,Month-to-month,2,20.75,0.387,0,0
+6497-TILVL,Month-to-month,7,50.7,0.3859,0,0
+1963-VAUKV,Month-to-month,1,20.4,0.3858,0,1
+2700-LUEVA,Month-to-month,1,20.75,0.3853,0,0
+2087-QAREY,Month-to-month,22,54.7,0.3851,0,0
+1194-SPVSP,Month-to-month,1,19.65,0.385,0,0
+0048-LUMLS,One year,37,91.2,0.3837,0,0
+6776-TLWOI,Month-to-month,3,19.85,0.3832,0,1
+2252-JHJGE,One year,61,104.0,0.3823,0,0
+2843-CQMEG,Month-to-month,24,49.7,0.3803,0,0
+0365-TRTPY,Month-to-month,37,91.2,0.3802,0,0
+3794-NFNCH,Month-to-month,30,50.0,0.3799,0,0
+3179-GBRWV,Month-to-month,21,64.95,0.3795,0,0
+3090-QFUVD,Month-to-month,1,20.3,0.379,0,0
+1051-GEJLJ,Month-to-month,2,19.5,0.3785,0,0
+9139-WQQDY,One year,49,100.45,0.3783,0,1
+2839-RFSQE,Month-to-month,2,20.65,0.3782,0,1
+8930-XOTDP,Month-to-month,18,55.95,0.3779,0,0
+2091-MJTFX,Month-to-month,30,51.2,0.3769,0,1
+7017-VFULY,Month-to-month,2,20.1,0.3767,0,0
+4701-AHWMW,Month-to-month,55,54.55,0.3767,0,1
+4190-MFLUW,Month-to-month,10,55.2,0.376,0,1
+4377-VDHYI,One year,32,90.8,0.3754,0,0
+0178-CIIKR,Month-to-month,3,19.95,0.3741,0,0
+6890-PFRQX,Month-to-month,18,69.5,0.3739,0,0
+9254-RBFON,One year,17,98.6,0.3733,0,1
+9138-EFSMO,One year,26,78.95,0.3729,0,0
+3413-CSSTH,Month-to-month,41,55.7,0.3724,0,0
+6366-XIVKZ,Month-to-month,13,63.15,0.3719,0,0
+3858-XHYJO,One year,40,105.75,0.3709,0,0
+8409-WQJUX,One year,25,54.2,0.3688,0,0
+0895-LMRSF,One year,23,64.9,0.3671,0,0
+9972-VAFJJ,One year,53,94.0,0.3665,0,0
+3948-FVVRP,Month-to-month,9,54.8,0.3654,0,0
+2659-VXMWZ,One year,67,111.3,0.3647,0,1
+3865-ZYKAD,Month-to-month,69,84.9,0.364,0,0
+6733-LRIZX,Two year,35,108.95,0.3632,0,0
+2294-DMMUS,Month-to-month,62,70.45,0.3628,0,0
+5473-KHBPS,One year,52,95.7,0.3619,0,0
+2159-TURXX,Month-to-month,5,20.05,0.3617,0,0
+9565-JSNFM,One year,38,70.45,0.361,0,1
+4946-EDSEW,Month-to-month,11,19.25,0.3607,0,1
+0440-QEXBZ,Month-to-month,44,50.15,0.3588,0,0
+3675-EQOZA,Month-to-month,5,20.65,0.3566,0,0
+4701-MLJPN,Month-to-month,31,55.25,0.3562,0,1
+9986-BONCE,Month-to-month,4,20.95,0.3562,0,1
+8053-WWDRO,Month-to-month,6,19.5,0.356,0,1
+5850-BDWCY,Month-to-month,6,20.2,0.3558,0,0
+0733-VUNUW,Month-to-month,24,55.65,0.3543,0,1
+8433-WPJTV,One year,65,103.9,0.3538,0,0
+5140-FOMCQ,One year,59,109.15,0.3536,0,0
+5966-EMAZU,One year,64,108.5,0.3527,0,0
+5240-CAOYT,Month-to-month,57,87.55,0.3518,0,0
+5533-RJFTJ,Month-to-month,49,30.2,0.3506,0,0
+9909-DFRJA,One year,26,95.85,0.3481,0,0
+2748-MYRVK,One year,63,99.9,0.3473,0,1
+7356-AYNJP,One year,4,23.9,0.347,0,0
+4402-FTBXC,Month-to-month,54,89.8,0.3454,0,0
+8970-ANWXO,One year,23,73.75,0.3441,0,0
+2155-AMQRX,Month-to-month,28,54.9,0.3433,0,0
+9962-BFPDU,Month-to-month,1,20.05,0.3432,0,0
+7130-CTCUS,Month-to-month,16,54.55,0.3366,0,0
+1360-XFJMR,One year,67,109.7,0.3344,0,0
+2428-ZMCTB,Month-to-month,10,19.75,0.3338,0,0
+5863-OOKCL,Month-to-month,10,18.85,0.3328,0,0
+7764-BDPEE,Month-to-month,3,20.85,0.3308,0,0
+3680-CTHUH,One year,60,116.6,0.3303,0,0
+0373-AIVNJ,One year,9,39.55,0.3295,0,0
+5155-AZQPB,Month-to-month,28,49.9,0.327,0,0
+6383-ZTSIW,One year,39,99.1,0.3265,0,0
+5440-VHLUL,One year,69,105.2,0.3257,0,0
+6421-SZVEM,One year,28,82.85,0.3252,0,0
+3893-JRNFS,Month-to-month,68,39.9,0.3236,0,0
+2969-WGHQO,One year,7,69.45,0.3231,0,0
+4075-JFPGR,One year,51,93.5,0.3226,0,0
+9107-UKCKY,One year,61,79.8,0.3225,0,0
+7531-GQHME,Month-to-month,12,20.05,0.3223,0,0
+3639-XJHKQ,Month-to-month,19,60.6,0.3223,0,0
+9039-RBEEE,Month-to-month,39,48.95,0.3219,0,1
+4016-BJKTZ,Two year,25,108.9,0.3209,0,0
+6838-HVLXG,Month-to-month,12,20.3,0.32,0,0
+0484-FFVBJ,One year,32,64.85,0.3194,0,0
+0447-BEMNG,Month-to-month,48,45.3,0.3193,0,1
+9367-TCUYN,Month-to-month,12,20.1,0.3191,0,0
+5921-NGYRH,Month-to-month,64,73.55,0.3191,0,0
+9256-JTBNZ,Month-to-month,11,20.3,0.3177,0,0
+9040-KZVWO,One year,26,75.5,0.3168,0,0
+1346-PJWTK,Month-to-month,61,94.15,0.3159,0,0
+6164-HXUGH,Month-to-month,6,19.85,0.3145,0,0
+9633-DENPU,Month-to-month,47,58.6,0.3144,0,0
+3077-RSNTJ,Month-to-month,6,19.7,0.3143,0,0
+4489-SNOJF,Month-to-month,35,72.25,0.3122,0,1
+0665-XHDJU,Two year,72,99.4,0.3115,0,0
+9115-YQHGA,Month-to-month,40,51.1,0.3108,0,0
+2972-YDYUW,One year,57,94.7,0.3099,0,0
+8671-KKKOS,Month-to-month,46,45.55,0.3098,0,0
+2212-LYASK,One year,27,45.85,0.3084,0,0
+3896-RCYYE,Month-to-month,67,53.4,0.3072,0,0
+1492-QGCLU,Month-to-month,53,85.7,0.3049,0,0
+6583-SZVGP,Two year,48,108.1,0.3032,0,0
+7879-CGSFV,One year,55,100.9,0.3023,0,0
+5014-WUQMG,One year,47,96.1,0.3023,0,0
+4332-MUOEZ,One year,20,94.3,0.3011,0,0
+5081-NWSUP,One year,10,64.9,0.2989,0,0
+8735-NBLWT,Month-to-month,9,20.4,0.2981,0,0
+2040-OBMLJ,One year,31,81.7,0.2958,0,0
+7803-XOCCZ,Month-to-month,52,84.05,0.2932,0,0
+3523-QRQLL,One year,22,69.5,0.2922,0,1
+2019-HDCZY,Two year,63,102.6,0.2895,0,0
+6968-MHOMU,One year,58,45.0,0.2892,0,0
+9097-ZUBYC,Month-to-month,14,48.8,0.2884,0,0
+8849-GYOKR,One year,54,106.55,0.2875,0,1
+4700-UBQMV,One year,21,75.9,0.2856,0,0
+4002-BQWPQ,Month-to-month,25,81.75,0.2847,0,0
+9378-FXTIZ,One year,54,70.15,0.2835,0,1
+1218-VKFPE,Month-to-month,12,19.0,0.2833,0,1
+6198-PNNSZ,One year,56,109.8,0.2824,0,0
+7311-MQJCH,One year,5,19.55,0.2794,0,0
+3729-OWRVL,Two year,65,110.35,0.2766,0,0
+2307-FYNNL,Two year,65,109.05,0.2763,0,0
+0516-UXRMT,One year,62,92.05,0.275,0,0
+9013-AQORL,Month-to-month,48,45.55,0.2747,0,0
+2001-EWBQU,Two year,60,104.7,0.2745,0,0
+3011-WQKSZ,Month-to-month,19,20.0,0.2731,0,0
+6112-KTHFQ,Month-to-month,13,19.3,0.2719,0,0
+2923-ARZLG,One year,0,19.7,0.2707,0,0
+0076-LVEPS,Month-to-month,29,45.0,0.2697,0,0
+9480-BQJEI,One year,62,92.3,0.2697,0,0
+0743-HRVFF,One year,51,56.15,0.269,0,0
+5445-PZWGX,One year,62,102.0,0.2685,0,1
+4785-QRJHC,One year,46,59.9,0.2685,0,1
+7159-NOKYQ,Two year,67,93.15,0.2682,0,0
+0257-KXZGU,Month-to-month,32,62.45,0.2674,0,0
+1852-XEMDW,Month-to-month,22,65.05,0.2674,0,0
+8401-EMUWF,Month-to-month,42,69.4,0.2668,0,0
+9357-UJRUN,One year,24,58.35,0.2661,0,0
+9364-YKUVW,Month-to-month,15,19.8,0.2658,0,0
+4079-VTGLK,Two year,30,74.85,0.2646,0,0
+2165-VOEGB,One year,46,105.2,0.2618,0,1
+1629-DQQVB,Month-to-month,14,50.1,0.2615,0,0
+6900-RBKER,Two year,52,89.45,0.2599,0,0
+5446-DKWYW,One year,61,65.2,0.2568,0,0
+3571-DPYUH,One year,58,94.7,0.2563,0,0
+1729-VLAZJ,One year,10,40.25,0.2551,0,0
+1131-SUEKT,One year,61,98.45,0.2549,0,0
+3733-UOCWF,One year,61,85.55,0.2546,0,0
+0440-UEDAI,One year,53,94.45,0.2544,0,0
+4830-FAXFM,Month-to-month,19,24.1,0.2543,0,0
+5027-YOCXN,One year,51,110.05,0.2534,0,0
+2250-IVBWA,Month-to-month,64,81.05,0.251,0,0
+3594-UVONA,One year,35,85.95,0.2496,0,1
+2926-JEJJC,One year,8,20.2,0.2491,0,0
+8034-RYTVV,One year,55,84.25,0.249,0,0
+1395-OFUWC,Month-to-month,43,29.3,0.249,0,0
+2001-MCUUW,Two year,46,108.65,0.247,0,0
+7572-KPVKK,Two year,62,104.05,0.2467,0,0
+5566-SOEZD,One year,27,80.65,0.2459,0,0
+4353-HYOJD,Month-to-month,27,49.85,0.2443,0,0
+6784-XYJAE,One year,36,55.8,0.2441,0,0
+1530-ZTDOZ,Month-to-month,49,40.65,0.2428,0,0
+0725-CXOTM,One year,36,89.65,0.2414,0,0
+9143-CANJF,Month-to-month,24,55.15,0.2403,0,0
+9822-BIIGN,Month-to-month,53,71.85,0.24,0,0
+9128-CPXKI,Two year,59,95.8,0.239,0,0
+4759-PXTAN,One year,59,80.1,0.2389,0,0
+3354-OADJP,One year,8,54.25,0.2373,0,0
+5808-TOTXO,One year,3,20.55,0.237,0,0
+3623-FQBOX,Month-to-month,21,19.95,0.2351,0,0
+8457-XIGKN,Month-to-month,20,19.6,0.2337,0,0
+6297-NOOPG,Two year,70,110.5,0.2333,0,0
+8582-KRHPJ,Month-to-month,50,35.0,0.2318,0,0
+7997-EASSD,One year,63,81.2,0.2314,0,0
+5360-LJCNJ,Two year,71,105.15,0.2311,0,0
+3096-WPXBT,One year,61,100.7,0.2302,0,0
+0377-JBKKT,Month-to-month,22,57.95,0.2301,0,0
+7654-YWJUF,One year,43,84.25,0.2295,0,0
+5025-GOOKI,Month-to-month,20,18.9,0.2294,0,0
+1444-VVSGW,One year,70,115.65,0.2291,0,1
+3181-MIZBN,Month-to-month,16,19.75,0.2286,0,0
+6242-SGYTS,One year,62,94.95,0.2279,0,0
+2958-NHPPS,Month-to-month,23,20.85,0.2273,0,0
+1744-JHKYS,Month-to-month,34,24.7,0.227,0,0
+2930-UOTMB,Month-to-month,31,65.25,0.2265,0,1
+0997-YTLNY,Month-to-month,19,48.8,0.2254,0,0
+6993-YCOBK,Two year,60,110.6,0.225,0,0
+6598-RFFVI,One year,2,19.3,0.2248,0,1
+2129-ALKBS,Month-to-month,40,26.2,0.2235,0,0
+8909-BOLNL,One year,3,21.2,0.2224,0,0
+4419-UJMUS,Two year,69,99.35,0.2222,0,0
+6968-URWQU,One year,43,56.35,0.2219,0,0
+0536-ACXIP,Two year,72,109.55,0.2209,0,0
+1264-FUHCX,One year,49,56.3,0.2206,0,0
+5619-XZZKR,One year,4,19.95,0.2205,0,0
+9402-ROUMJ,One year,67,100.25,0.2191,0,0
+2233-TXSIU,One year,17,44.45,0.2184,0,0
+0289-IVARM,Month-to-month,35,60.55,0.2164,0,0
+0106-UGRDO,Two year,69,116.0,0.215,0,0
+0297-RBCSG,One year,19,65.35,0.2139,0,0
+4501-UYKBC,One year,46,69.1,0.2136,0,0
+6933-FHBZC,One year,26,56.05,0.211,0,0
+8089-UZWLX,Two year,71,104.05,0.2099,0,0
+6568-POCUI,Two year,45,95.2,0.2096,0,0
+8780-RSYYU,Month-to-month,25,19.2,0.2091,0,0
+8646-JCOMS,One year,66,90.55,0.209,0,0
+2272-WUSPA,Two year,72,110.75,0.2089,0,0
+2967-MXRAV,One year,1,18.8,0.2057,0,0
+9715-WZCLW,Two year,71,97.2,0.2051,0,0
+3324-OIRTO,One year,71,104.65,0.2044,0,0
+0164-APGRB,Two year,72,114.9,0.2043,0,0
+2533-QVMSK,Two year,61,94.1,0.2039,0,1
+5514-YQENT,Two year,41,111.15,0.2037,0,0
+9308-ANMVE,Month-to-month,47,55.3,0.2036,0,0
+7233-IOQNP,Month-to-month,43,34.0,0.2035,0,0
+2239-CFOUJ,One year,1,20.4,0.2029,0,0
+1730-VFMWO,Month-to-month,34,50.2,0.1989,0,0
+4464-JCOLN,One year,2,19.85,0.1988,0,1
+3229-USWAR,One year,34,79.95,0.198,0,0
+2746-DIJLO,One year,41,56.3,0.1974,0,0
+5018-LXQQG,Month-to-month,30,66.3,0.1971,0,0
+6967-PEJLL,One year,37,40.2,0.1969,0,0
+9330-VOFSZ,Two year,60,110.8,0.196,0,0
+7691-XVTZH,Two year,68,89.95,0.1959,0,0
+9972-NKTFD,Month-to-month,28,54.65,0.1937,0,0
+6734-FQAJX,Two year,67,105.05,0.1935,0,0
+1952-DVVSW,One year,10,20.1,0.1934,0,0
+7649-PHJVR,One year,11,19.5,0.1928,0,0
+9866-OCCKE,Two year,72,109.75,0.1923,0,0
+7641-TQFHN,Two year,39,100.55,0.1916,0,0
+7036-TYDEC,Two year,69,104.0,0.191,0,0
+5271-YNWVR,Two year,68,113.15,0.1901,0,1
+7666-WKRON,Two year,39,80.45,0.1899,0,1
+1036-GUDCL,Month-to-month,60,79.05,0.1883,0,0
+9931-KGHOA,Month-to-month,46,55.0,0.1868,0,0
+0661-KBKPA,One year,53,78.75,0.1867,0,0
+7663-CUXZB,Two year,59,113.75,0.1865,0,0
+5161-XEUVX,Two year,37,94.3,0.1863,0,0
+5236-PERKL,Two year,57,112.95,0.1858,0,1
+9052-DHNKM,One year,26,61.55,0.1838,0,0
+9586-JGQKH,Two year,64,105.4,0.1829,0,0
+5857-XRECV,One year,2,20.5,0.1827,0,0
+9405-GPBBG,Two year,64,110.5,0.182,0,0
+8819-ZBYNA,Two year,58,109.1,0.1802,0,0
+5709-LVOEQ,Two year,0,80.85,0.179,0,0
+3750-YHRYO,One year,7,20.65,0.1784,0,0
+7762-ONLJY,One year,6,19.7,0.1771,0,0
+5297-MDOIR,One year,63,81.15,0.1768,0,0
+5537-UXXVS,Month-to-month,20,19.25,0.1762,0,0
+2408-PSJVE,Month-to-month,44,61.9,0.1761,0,0
+5049-MUBWG,One year,26,75.0,0.1751,0,0
+8015-IHCGW,Two year,72,115.5,0.1729,0,0
+2834-JKOOW,One year,15,45.9,0.1727,0,0
+1136-XGEQU,One year,50,84.15,0.1724,0,0
+6766-HFKLA,Two year,56,103.2,0.1722,0,0
+0628-CNQRM,One year,22,67.5,0.1711,0,1
+7677-SJJJK,One year,8,19.9,0.1708,0,0
+6682-QJDGB,Month-to-month,40,55.25,0.1704,0,1
+9351-HXDMR,Two year,72,110.9,0.1704,0,0
+2323-ARSVR,Two year,67,111.05,0.1703,0,0
+5671-RQRLP,Two year,70,75.65,0.1694,0,0
+6075-QMNRR,Month-to-month,52,49.75,0.169,0,0
+5753-QQWPW,One year,28,59.9,0.1689,0,0
+5701-GUXDC,One year,26,35.4,0.1684,0,0
+9483-GCPWE,One year,9,20.1,0.1683,0,0
+1545-JFUML,Two year,71,99.0,0.168,0,0
+2798-NYLMZ,Two year,71,108.55,0.1676,0,0
+6434-TTGJP,Two year,10,53.7,0.1672,0,0
+2388-LAESQ,Two year,72,114.85,0.1671,0,0
+4537-CIBHB,One year,9,20.25,0.1661,0,0
+7971-HLVXI,Two year,72,84.5,0.1648,0,0
+0134-XWXCE,One year,44,74.85,0.1625,0,0
+7816-VGHTO,Two year,6,40.55,0.161,0,0
+1097-FSPVW,Month-to-month,42,54.55,0.1608,0,0
+9070-BCKQP,Two year,72,110.15,0.1608,0,0
+1038-RQOST,Month-to-month,19,20.6,0.16,0,0
+2877-VDUER,One year,35,40.9,0.1598,0,0
+2907-ILJBN,One year,11,20.6,0.1592,0,0
+9313-QOLTZ,Month-to-month,26,20.9,0.1588,0,0
+7010-ZMVBF,Month-to-month,18,20.45,0.1585,0,0
+3301-VKTGC,One year,68,85.5,0.1578,0,0
+2171-UDMFD,Month-to-month,32,19.45,0.1577,0,0
+7492-TAFJD,Two year,7,38.55,0.1571,0,0
+0980-FEXWF,One year,26,50.35,0.1543,0,0
+8591-TKMZH,Two year,59,111.1,0.1542,0,0
+8741-LQOBK,Month-to-month,46,35.05,0.1534,0,0
+2522-WLNSF,One year,34,64.2,0.1515,0,0
+6797-LNAQX,Two year,70,98.3,0.1505,0,1
+9637-CDTKZ,Two year,72,114.1,0.1495,0,0
+7032-LMBHI,One year,37,64.65,0.1493,0,0
+0983-TATYJ,One year,33,51.45,0.1483,0,0
+2368-GAKKQ,Two year,70,113.65,0.1472,0,0
+9298-WGMRW,Two year,72,115.5,0.1453,0,0
+9473-CBZOP,One year,28,59.0,0.1449,0,0
+3530-VWVGU,Month-to-month,22,19.9,0.1449,0,0
+5524-KHNJP,One year,33,74.75,0.1443,0,0
+4137-JOPHL,Two year,50,89.7,0.144,0,0
+1150-WFARN,Two year,67,108.75,0.144,0,1
+9142-XMYJH,Month-to-month,29,19.35,0.1439,0,0
+3766-EJLFL,Two year,68,109.05,0.1438,0,0
+5062-CJJKH,One year,25,53.65,0.143,0,0
+5442-BXVND,Month-to-month,33,24.25,0.1425,0,0
+5975-BAICR,One year,36,63.7,0.1421,0,0
+0866-QLSIR,One year,34,64.4,0.1418,0,1
+9313-CDOGY,Month-to-month,38,19.6,0.1416,0,0
+9917-KWRBE,One year,41,78.35,0.1414,0,0
+6919-ELBGL,Two year,72,114.95,0.1413,0,0
+5468-BPMMO,Month-to-month,46,19.6,0.1412,0,0
+8690-UPCZI,One year,29,69.05,0.1412,0,0
+0254-KCJGT,One year,52,81.4,0.1405,0,0
+5236-XMZJY,Month-to-month,42,59.65,0.1402,0,0
+4627-MIHJH,Two year,69,110.25,0.139,0,0
+4223-BKEOR,One year,21,64.85,0.1377,0,0
+9209-NWPGU,One year,44,65.4,0.1353,0,0
+6194-HBGQN,One year,51,81.15,0.1351,0,0
+8573-JGCZW,One year,17,19.65,0.135,0,0
+9758-MFWGD,One year,48,29.9,0.1332,0,0
+6445-TNRXS,Two year,68,114.7,0.1331,0,0
+7191-ADRGF,Two year,44,54.3,0.1313,0,0
+0727-BNRLG,Two year,69,97.65,0.131,0,0
+7520-HQWJU,Month-to-month,66,67.45,0.1308,0,0
+5061-PBXFW,Month-to-month,32,61.4,0.1306,0,0
+8400-WZICQ,Month-to-month,55,55.7,0.1303,0,0
+4376-KFVRS,Two year,72,114.05,0.1303,0,0
+9860-LISIZ,Month-to-month,34,20.35,0.1296,0,0
+9289-LBQVU,One year,64,70.15,0.1295,0,0
+3396-DKDEL,Two year,70,115.15,0.1291,0,0
+0121-SNYRK,One year,50,35.4,0.1288,0,0
+0868-VJRDR,Two year,64,104.05,0.1282,0,0
+9906-NHHVC,Two year,65,53.5,0.1278,0,0
+8915-NNTRC,Two year,72,107.7,0.1276,0,0
+7338-ERIVA,One year,39,45.05,0.1267,0,0
+8727-XDPUD,Two year,37,35.8,0.1261,0,0
+8777-PVYGU,One year,52,64.3,0.1256,0,0
+7838-LAZFO,One year,45,78.8,0.1255,0,0
+8570-KLJYJ,One year,36,54.45,0.1226,0,0
+0017-IUDMW,Two year,72,116.8,0.1226,0,0
+8024-XNAFQ,Two year,72,107.4,0.1223,0,0
+1741-WTPON,Two year,56,115.85,0.1221,0,0
+5204-HMGYF,One year,49,87.2,0.1217,0,0
+2061-VVFST,Month-to-month,37,19.5,0.1213,0,0
+6374-NTQLP,Two year,72,104.1,0.1204,0,0
+0074-HDKDG,One year,25,61.6,0.1192,0,0
+1936-CZAKF,Two year,49,49.65,0.1191,0,0
+2325-ZUSFD,One year,57,70.1,0.1187,0,1
+2511-MORQY,One year,50,54.9,0.1178,0,0
+1929-ZCBHE,One year,47,40.3,0.1177,0,0
+6726-NNFWD,Two year,71,89.45,0.1176,0,0
+6848-YLDFR,One year,58,75.2,0.1169,0,0
+9412-ARGBX,Two year,48,95.5,0.116,0,1
+9220-ZNKJI,Two year,55,88.8,0.1158,0,0
+4702-HDRKD,One year,67,49.35,0.1158,0,0
+4304-TSPVK,Two year,68,114.9,0.115,0,0
+9330-DHBFL,One year,23,66.25,0.1147,0,0
+9640-ZSLDC,One year,53,60.6,0.1143,0,0
+7359-WWYJV,Two year,72,114.45,0.1143,0,0
+2788-CJQAQ,One year,13,19.45,0.1142,0,0
+7375-WMVMT,Two year,71,95.5,0.1127,0,0
+8809-XKHMD,Two year,72,100.55,0.1119,0,0
+4973-RLZVI,One year,30,74.65,0.1117,0,0
+7690-KPNCU,One year,64,73.05,0.1116,0,0
+5820-PTRYM,One year,56,68.45,0.1112,0,0
+9534-NSXEM,One year,26,20.65,0.1107,0,0
+0019-EFAEP,Two year,72,101.3,0.1105,0,0
+1936-UAFEH,Two year,68,110.25,0.1091,0,0
+3055-VTCGS,One year,63,58.55,0.1079,0,0
+4981-FLTMF,Month-to-month,57,65.2,0.1067,0,0
+1131-ALZWV,One year,24,24.6,0.1066,0,0
+4378-MYPGO,Two year,68,105.25,0.1066,0,0
+5170-PTRKA,One year,49,35.8,0.1061,0,0
+7471-MQPOS,One year,71,72.9,0.1058,0,0
+4877-TSOFF,One year,55,75.75,0.1056,0,0
+3442-ZHHCC,One year,68,76.9,0.1054,0,0
+0307-BCOPK,One year,16,19.05,0.1039,0,0
+7636-PEPNS,One year,58,44.1,0.1037,0,0
+4717-GHADL,Two year,50,79.6,0.1011,0,0
+8782-NUUOL,One year,60,79.0,0.101,0,0
+5505-OVWQW,One year,17,20.15,0.1003,0,0
+6322-HRPFA,Month-to-month,49,59.6,0.1003,0,0
+4086-ATNFV,One year,34,60.8,0.0997,0,0
+3705-PSNGL,One year,45,20.4,0.0995,0,1
+3115-CZMZD,Two year,0,20.25,0.0994,0,0
+6461-PPAXN,One year,35,54.95,0.0989,0,0
+5245-VDBUR,One year,52,35.45,0.0989,0,0
+0056-EPFBG,Two year,20,39.4,0.0987,0,0
+1133-KXCGE,One year,18,20.1,0.0986,0,0
+7369-TRPFD,One year,19,18.8,0.0977,0,0
+7581-EBBOU,One year,60,70.15,0.0976,0,0
+5574-NXZIU,Two year,63,109.2,0.0976,0,0
+4359-INNWN,One year,17,20.05,0.0974,0,0
+6527-PZFPV,One year,24,20.8,0.0965,0,0
+5825-XJOCM,One year,48,64.4,0.0962,0,0
+7279-NMVJC,One year,17,19.9,0.0961,0,0
+9108-EQPNQ,Two year,10,26.1,0.0961,0,0
+9030-QGZNL,Two year,8,20.85,0.096,0,0
+7322-OCWHC,Two year,72,93.05,0.0956,0,0
+4560-WQAQW,One year,59,68.7,0.0946,0,0
+2320-TZRRH,One year,20,19.5,0.0938,0,0
+6698-OXETB,Two year,11,20.4,0.0926,0,0
+3831-YCPUO,Two year,72,109.5,0.0923,0,0
+2088-IEBAU,Two year,68,88.15,0.091,0,0
+8869-TORSS,One year,48,60.35,0.0908,0,1
+8763-KIAFH,One year,27,20.55,0.0908,0,0
+9777-IQHWP,Two year,64,93.4,0.0907,0,0
+6519-ZHPXP,Two year,72,108.3,0.0906,0,0
+4227-OJHAL,One year,68,73.0,0.0903,0,0
+3125-RAHBV,One year,22,20.3,0.0891,0,0
+2541-YGPKE,One year,42,63.7,0.089,0,0
+3717-FDJFU,Two year,5,20.45,0.0882,0,0
+2188-SXWVT,One year,34,55.0,0.0879,0,0
+4530-NDRKU,One year,42,19.05,0.0877,0,0
+4709-LKHYG,One year,29,20.0,0.0872,0,0
+3926-YZVVX,One year,41,50.05,0.0871,0,0
+9720-JJJOR,One year,41,60.3,0.0867,0,0
+3982-JGSFD,One year,36,20.35,0.0861,0,0
+9926-PJHDQ,Two year,72,76.8,0.0859,0,0
+0181-RITDD,Two year,62,108.15,0.0858,0,0
+9530-GRMJG,Two year,70,84.1,0.0857,0,0
+5696-CEIQJ,Two year,67,103.15,0.0853,0,0
+9746-UGFAC,One year,22,20.85,0.0847,0,0
+1063-DHQJF,Two year,69,92.15,0.0846,0,0
+6061-GWWAV,One year,41,70.2,0.0843,0,0
+9359-UGBTK,One year,67,72.35,0.0842,0,0
+2245-ADZFJ,Two year,31,80.55,0.084,0,0
+3506-OVLKD,One year,35,26.2,0.084,0,0
+8314-HTWVE,Two year,7,19.85,0.0839,0,0
+3985-HOYPM,One year,26,19.4,0.0837,0,0
+2676-SSLTO,Two year,49,66.15,0.083,0,0
+1271-UODNO,Two year,39,53.85,0.0812,0,0
+0230-UBYPQ,One year,63,36.1,0.0803,0,0
+5917-RYRMG,One year,32,19.8,0.0801,0,0
+5057-RKGLH,Two year,9,20.35,0.0796,0,0
+9867-XOBQA,Two year,21,53.15,0.0796,0,0
+5313-FPXWG,One year,51,24.6,0.0791,0,0
+5519-TEEUH,One year,33,20.15,0.0791,0,0
+7337-CINUD,Two year,8,19.5,0.0789,0,0
+6823-SIDFQ,One year,28,18.25,0.0782,0,0
+1494-EJZDW,Two year,10,20.15,0.0781,0,0
+2150-OEGBV,One year,27,20.1,0.0781,0,0
+8779-YIQQA,One year,21,19.8,0.078,0,0
+1139-WUOAH,Two year,57,53.35,0.0777,0,0
+8717-VCTXJ,One year,42,19.55,0.0775,0,0
+8873-TMKGR,One year,29,19.1,0.0774,0,0
+6013-BHCAW,Two year,61,81.0,0.0765,0,0
+3489-VSFRD,One year,56,60.25,0.0762,0,0
+6223-DHJGV,One year,42,20.65,0.0755,0,0
+6872-HXFNF,One year,64,58.35,0.0741,0,0
+9919-FZDED,Two year,72,84.1,0.0741,0,0
+1525-LNLOJ,Two year,66,63.3,0.0739,0,0
+7996-BPXHY,Two year,13,25.0,0.0738,0,0
+1776-SPBWV,One year,34,20.1,0.0735,0,0
+5318-YKDPV,Two year,43,79.15,0.0734,0,0
+1265-HVPZB,One year,59,66.4,0.0729,0,0
+5702-KVQRD,Two year,71,82.55,0.0724,0,0
+4648-YPBTM,Two year,53,73.9,0.072,0,0
+1023-BQXZE,Two year,57,74.35,0.0698,0,0
+7632-YUTXB,One year,25,20.05,0.0697,0,0
+0979-MOZQI,Two year,62,39.0,0.0686,0,0
+1090-ESELR,Two year,72,105.5,0.0676,0,0
+5893-PYOLZ,Two year,56,81.8,0.0672,0,0
+9648-BCHKM,Two year,18,24.65,0.0667,0,0
+6203-HBZPA,Two year,52,63.9,0.0667,0,0
+4737-HOBAX,Two year,63,79.8,0.0661,0,0
+6814-ZPWFQ,One year,51,25.0,0.0661,0,0
+2335-GSODA,Two year,23,40.1,0.0661,0,0
+9824-QCJPK,One year,36,20.0,0.0659,0,0
+6418-HNFED,Two year,51,83.25,0.0658,0,0
+3649-JPUGY,Two year,72,88.6,0.0645,0,0
+6332-FBZRI,One year,67,69.35,0.0641,0,0
+4962-CHQPW,One year,29,19.85,0.063,0,0
+8626-PTQGE,Two year,69,60.05,0.063,0,0
+9385-NXKDA,Two year,72,82.65,0.0629,0,0
+4500-HKANN,Two year,23,59.7,0.0624,0,0
+5469-NUJUR,Two year,19,19.95,0.0621,0,0
+5924-SNGKP,One year,41,20.25,0.0615,0,0
+2812-REYAT,One year,49,20.05,0.0614,0,0
+5495-GPSRW,Two year,20,19.7,0.0611,0,0
+0788-DXBFY,One year,58,19.55,0.0609,0,0
+4751-ERMAN,Two year,72,75.4,0.0607,0,0
+6685-GBWJZ,One year,63,70.8,0.0607,0,0
+0513-RBGPE,Two year,37,62.8,0.0604,0,0
+0263-FJTQO,Two year,50,70.5,0.0603,0,0
+2332-TODQS,One year,48,25.05,0.0603,0,0
+6701-YVNQG,Two year,72,88.7,0.0602,0,0
+1122-YJBCS,One year,69,53.65,0.0597,0,0
+5498-IBWPI,One year,66,49.4,0.0595,0,0
+7061-OVMIM,One year,30,19.55,0.0593,0,0
+5380-XPJNZ,One year,38,20.05,0.0592,0,0
+1227-UDMZR,Two year,72,91.15,0.0584,0,0
+9968-FFVVH,One year,63,68.8,0.0578,0,0
+9610-WCESF,Two year,67,43.9,0.0571,0,0
+3812-LRZIR,Two year,27,24.5,0.0567,0,0
+8390-FESFV,Two year,62,84.5,0.0564,0,0
+8345-MVDYC,Two year,45,81.65,0.0559,0,0
+4121-AGSIN,One year,58,24.5,0.0556,0,0
+0707-HOVVN,Two year,70,75.5,0.0555,0,0
+4039-PIMHX,Two year,49,49.8,0.0554,0,0
+3251-YMVWZ,One year,53,24.05,0.055,0,0
+6681-ZSEXG,Two year,56,59.5,0.0545,0,0
+3161-ONRWK,One year,60,65.85,0.0539,0,0
+0909-SELIE,Two year,61,80.8,0.0536,0,0
+1568-BEKZM,Two year,70,90.05,0.0528,0,0
+5063-IUOKK,Two year,13,19.75,0.0525,0,0
+5774-QPLTF,One year,50,20.35,0.0524,0,0
+4654-ULTTN,Two year,70,74.8,0.0519,0,0
+0164-XAIRP,Two year,24,19.55,0.0513,0,0
+5751-USDBL,Two year,46,81.0,0.0507,0,0
+0057-QBUQH,Two year,43,25.1,0.0506,0,0
+8590-OHDIW,One year,38,20.3,0.05,0,0
+0301-FIDRB,Two year,72,63.8,0.0494,0,0
+9339-FIIJL,Two year,72,85.95,0.049,0,0
+1088-AUUZZ,Two year,56,75.85,0.049,0,0
+5266-PFRQK,One year,52,20.85,0.0487,0,0
+6119-SPUDB,Two year,46,38.25,0.0486,0,0
+5727-MYATE,Two year,72,90.8,0.0486,0,0
+7401-JIXNM,Two year,54,91.3,0.0483,0,0
+0559-CKHUS,Two year,29,19.55,0.0479,0,0
+0298-XACET,Two year,52,50.2,0.0478,0,0
+2987-BJXIK,Two year,70,84.7,0.0477,0,0
+3508-VLHCZ,Two year,71,90.55,0.0477,0,0
+9674-EHPPG,Two year,46,40.4,0.0476,0,0
+7216-KAOID,One year,41,19.5,0.0462,0,0
+7649-SIJJF,Two year,71,80.1,0.046,0,0
+6064-ZATLR,Two year,27,52.85,0.0459,0,0
+9073-ZZIAY,Two year,62,86.1,0.0454,0,0
+8430-TWCBX,One year,49,20.7,0.0452,0,0
+0123-CRBRT,Two year,61,88.1,0.045,0,0
+3865-ZFZIB,Two year,19,19.65,0.0449,0,0
+5696-JVVQY,Two year,48,70.1,0.0445,0,0
+8181-YHCMF,Two year,68,60.3,0.0442,0,0
+4955-VCWBI,One year,43,20.0,0.044,0,0
+0048-PIHNL,One year,49,20.45,0.044,0,0
+3487-EARAT,One year,70,74.1,0.0439,0,0
+3967-KXAPS,Two year,72,92.3,0.0438,0,0
+9945-PSVIP,Two year,25,18.7,0.0432,0,0
+9067-SQTNS,One year,44,20.6,0.0427,0,0
+4703-MQYKT,Two year,21,19.6,0.0427,0,0
+2885-HIJDH,Two year,69,86.9,0.0423,0,0
+2990-IAJSV,Two year,72,92.0,0.042,0,0
+1459-QNFQT,Two year,70,59.5,0.0418,0,0
+2266-FUBDZ,Two year,15,19.35,0.0417,0,0
+9548-LERKT,Two year,24,19.75,0.0407,0,0
+0052-YNYOT,One year,67,20.55,0.0405,0,0
+5329-KRDTM,Two year,72,77.35,0.0403,0,0
+2649-HWLYB,Two year,65,76.15,0.0401,0,0
+9950-MTGYX,Two year,28,20.3,0.0397,0,0
+2824-DXNKN,Two year,72,71.45,0.0395,0,0
+4213-HKBJO,Two year,33,25.7,0.0391,0,0
+5324-KTGCG,One year,71,20.85,0.039,0,0
+0839-JTCUD,Two year,66,89.9,0.0389,0,0
+8580-QVLOC,Two year,72,92.45,0.0388,0,1
+6388-TABGU,One year,62,56.15,0.0387,0,0
+0420-TXVSG,Two year,66,66.1,0.0386,0,0
+6953-PBDIN,Two year,70,72.95,0.0378,0,0
+2892-GESUL,Two year,18,19.35,0.0372,0,0
+4674-HGNUA,Two year,71,89.9,0.0367,0,0
+2925-VDZHY,Two year,72,88.7,0.0364,0,0
+2805-AUFQN,Two year,25,19.8,0.0363,0,0
+4825-FUREZ,Two year,42,20.25,0.0361,0,0
+3978-YNKDD,Two year,19,20.85,0.0359,0,0
+7560-QJAVJ,Two year,70,79.6,0.0351,0,0
+6096-EGVTU,One year,64,24.9,0.0351,0,0
+7408-OFWXJ,Two year,72,89.8,0.0348,0,0
+0769-MURVM,Two year,72,65.7,0.0342,0,0
+7205-BAIAD,Two year,40,20.6,0.034,0,0
+8292-ITGYJ,Two year,45,24.65,0.0337,0,0
+8241-JUIQO,One year,61,19.45,0.0329,0,0
+8173-RXAYP,Two year,24,19.7,0.032,0,0
+6164-HAQTX,Two year,71,53.95,0.0319,0,0
+4302-ZYFEL,One year,69,20.55,0.0317,0,0
+4335-UPJSI,Two year,24,19.75,0.0315,0,0
+7998-WNZEM,Two year,71,80.6,0.0313,0,0
+4521-WFJAI,Two year,56,25.95,0.0312,0,0
+5803-NQJZO,Two year,72,67.8,0.0312,0,0
+1085-LDWAM,One year,69,20.35,0.031,0,0
+4012-YCFAI,Two year,60,61.35,0.0309,0,0
+2263-SFSQZ,Two year,51,24.95,0.0308,0,0
+0379-DJQHR,Two year,67,81.35,0.0306,0,0
+6288-CHQJB,Two year,54,69.95,0.0301,0,0
+6374-AFWOX,Two year,46,65.65,0.0299,0,0
+0608-JDVEC,Two year,50,19.8,0.0297,0,0
+4940-KHCWD,Two year,60,37.7,0.0296,0,0
+8219-VYBVI,Two year,39,25.0,0.0295,0,0
+2954-PIBKO,Two year,69,64.15,0.0292,0,0
+6248-BSHKG,One year,61,20.4,0.0287,0,0
+8338-QIUNR,Two year,72,66.5,0.0287,0,0
+9588-YRFHY,Two year,49,19.9,0.0285,0,0
+0732-OCQOC,Two year,52,25.05,0.028,0,0
+0625-AFOHS,Two year,29,20.2,0.028,0,0
+1716-LSAMB,Two year,45,54.65,0.0273,0,0
+5181-OABFK,Two year,56,61.3,0.0273,0,0
+1697-LYYYX,One year,61,19.1,0.0272,0,0
+5457-COLHT,Two year,69,80.65,0.0269,0,0
+3470-OBUET,Two year,67,74.0,0.0267,0,0
+6080-LNESI,Two year,51,24.75,0.0266,0,0
+6365-HITVU,Two year,71,87.25,0.0262,0,0
+5296-BFCYD,Two year,46,20.1,0.0262,0,0
+6292-TOSSS,Two year,50,24.9,0.026,0,0
+6283-GITPX,Two year,71,76.9,0.026,0,0
+9114-DPSIA,Two year,72,81.0,0.0256,0,0
+4735-BJKOU,Two year,40,20.15,0.0255,0,0
+5666-MBJPT,Two year,65,25.1,0.0253,0,0
+9755-JHNMN,Two year,49,67.4,0.0252,0,0
+0562-FGDCR,Two year,72,74.55,0.0252,0,0
+3913-FCUUW,Two year,72,70.45,0.025,0,0
+3200-MNQTF,Two year,67,70.9,0.0249,0,0
+5334-AFQJB,Two year,72,25.1,0.0247,0,0
+5845-BZZIB,Two year,35,20.1,0.0247,0,0
+3948-KXDUF,Two year,66,68.75,0.0247,0,0
+1047-RNXZV,Two year,43,19.55,0.0245,0,0
+3071-MVJCD,Two year,72,82.3,0.0245,0,0
+4779-ZGICK,Two year,48,23.55,0.0243,0,0
+6169-PPETC,Two year,35,20.5,0.0239,0,0
+4018-PPNDW,Two year,61,24.1,0.0237,0,0
+3580-GICBM,Two year,61,24.2,0.0233,0,0
+4299-OPXEJ,Two year,56,19.55,0.0226,0,0
+8207-VVMYB,Two year,70,26.0,0.0224,0,0
+8028-PNXHQ,Two year,62,24.25,0.0223,0,0
+3429-IFLEM,Two year,71,77.35,0.0222,0,0
+8532-UEFWH,Two year,52,25.75,0.0216,0,0
+4698-KVLLG,Two year,51,19.6,0.0216,0,0
+3795-GWTRD,Two year,63,75.55,0.0215,0,0
+6917-FIJHC,Two year,72,26.0,0.0214,0,0
+3884-UEBXB,Two year,67,36.15,0.0214,0,0
+1926-QUZNN,Two year,72,25.25,0.0209,0,0
+0463-TXOAK,Two year,52,25.6,0.0205,0,0
+4785-FCIFB,Two year,61,24.4,0.0204,0,0
+3088-FVYWK,Two year,53,25.55,0.0204,0,0
+3511-BFTJW,Two year,72,38.5,0.0203,0,0
+3454-JFUBC,Two year,68,20.0,0.0202,0,0
+9372-TXXPS,Two year,60,59.85,0.0202,0,0
+3967-VQOGC,Two year,67,24.9,0.0201,0,0
+8701-DGLVH,Two year,51,20.45,0.0197,0,0
+6370-ZVHDV,Two year,61,25.3,0.0197,0,0
+3970-XGJDU,Two year,62,19.2,0.0195,0,0
+1705-GUHPV,Two year,63,24.2,0.0194,0,0
+6134-KWTBV,Two year,62,23.4,0.0194,0,0
+2632-TACXW,Two year,62,23.65,0.0192,0,0
+3400-ESFUW,Two year,55,57.55,0.019,0,1
+3836-FZSDJ,Two year,71,24.85,0.0187,0,0
+9286-BHDQG,Two year,72,45.25,0.0186,0,0
+3027-YNWZU,Two year,64,25.0,0.0184,0,0
+9814-AOUDH,Two year,53,19.5,0.0183,0,0
+7167-PCEYD,Two year,67,19.8,0.0183,0,0
+1767-CJKBA,Two year,66,25.1,0.0183,0,0
+1709-EJDOX,Two year,47,19.75,0.0178,0,0
+6349-JDHQP,Two year,53,19.85,0.0177,0,0
+9430-NKQLY,Two year,72,25.1,0.0176,0,0
+8735-SDUFN,Two year,72,24.3,0.0174,0,0
+8590-YFFQO,Two year,70,64.95,0.0173,0,0
+2230-XTUWL,Two year,48,19.55,0.0171,0,0
+4742-TXUEX,Two year,47,19.3,0.017,0,0
+2696-RZVZW,Two year,68,25.05,0.017,0,0
+1820-DJFPH,Two year,72,24.05,0.0169,0,0
+6625-FLENO,Two year,58,20.75,0.0168,0,0
+1862-QRWPE,Two year,48,20.65,0.0166,0,0
+3646-ITDGM,Two year,56,19.7,0.016,0,0
+1574-DYCWE,Two year,51,19.95,0.016,0,0
+6340-DACFT,Two year,50,20.55,0.0159,0,0
+9135-HSWOC,Two year,64,19.7,0.0158,0,0
+7606-BPHHN,Two year,72,19.8,0.0157,0,0
+4312-KFRXN,Two year,72,25.4,0.0157,0,0
+7729-XBTWX,Two year,66,19.75,0.0157,0,0
+2169-RRLFW,Two year,71,25.6,0.0156,0,0
+3563-SVYLG,Two year,68,62.65,0.0151,0,0
+2525-GVKQU,Two year,60,20.6,0.0148,0,0
+0040-HALCW,Two year,54,20.4,0.0147,0,0
+2075-PUEPR,Two year,55,19.35,0.0144,0,0
+7114-AEOZE,Two year,60,19.85,0.0144,0,0
+2616-FLVQC,Two year,64,19.55,0.0141,0,0
+8129-GMVGI,Two year,56,20.05,0.0139,0,0
+7515-LODFU,Two year,69,20.3,0.0139,0,0
+6848-HJTXY,Two year,64,19.45,0.0136,0,0
+8347-GDTMP,Two year,64,19.45,0.0136,0,0
+8711-LOBKY,Two year,59,19.85,0.0134,0,0
+8619-IJNDK,Two year,71,64.05,0.0133,0,0
+1945-XISKS,Two year,67,19.65,0.013,0,0
+0174-QRVVY,Two year,71,25.35,0.013,0,0
+7717-BICXI,Two year,60,20.55,0.0129,0,0
+2346-LOCWC,Two year,58,20.5,0.0129,0,0
+9365-CSLBQ,Two year,71,24.35,0.0129,0,0
+6345-FZOQH,Two year,69,19.9,0.0127,0,0
+0397-ZXWQF,Two year,67,20.5,0.0126,0,0
+1555-HAPSU,Two year,71,23.9,0.0125,0,0
+8224-KDLKN,Two year,72,25.0,0.0123,0,0
+7157-SMCFK,Two year,61,19.75,0.0123,0,0
+0480-KYJVA,Two year,72,24.25,0.0123,0,0
+4821-WQOYN,Two year,72,20.1,0.0123,0,0
+1830-IPXVJ,Two year,61,19.75,0.0121,0,0
+8165-ZJRNM,Two year,72,23.75,0.0121,0,0
+0402-OAMEN,Two year,72,24.45,0.012,0,0
+2236-HILPA,Two year,62,20.65,0.0118,0,0
+7602-DBTOU,Two year,71,19.6,0.0117,0,0
+0962-CQPWQ,Two year,62,20.3,0.0115,0,0
+1927-QEWMY,Two year,72,20.5,0.011,0,0
+3910-MRQOY,Two year,72,19.4,0.011,0,0
+9537-JALFH,Two year,69,19.9,0.0098,0,0
+1403-GYAFU,Two year,70,20.05,0.0097,0,0
+2984-RGEYA,Two year,69,19.75,0.0096,0,0
+4086-WITJG,Two year,71,19.7,0.0094,0,0
+4277-BWBML,Two year,72,19.95,0.009,0,0
+0794-YVSGE,Two year,72,20.3,0.009,0,0
+3642-BYHDO,Two year,71,19.9,0.009,0,0
+1166-PQLGG,Two year,72,19.55,0.0089,0,0

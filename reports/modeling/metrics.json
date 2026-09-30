@@ -1,0 +1,29 @@
+{
+  "selected_model": "logistic_regression",
+  "gradient_boosting_best_params": {
+    "model__l2_regularization": 0.0020319809838424984,
+    "model__learning_rate": 0.038974580427136946,
+    "model__max_depth": 6,
+    "model__max_iter": 165,
+    "model__max_leaf_nodes": 13,
+    "model__min_samples_leaf": 47
+  },
+  "decision_threshold": 0.65,
+  "business_assumptions": {
+    "offer_cost_usd": 100.0,
+    "retention_success_rate": 0.3,
+    "value_horizon_months": 12
+  },
+  "test_metrics": {
+    "model": "logistic_regression",
+    "threshold": 0.65,
+    "roc_auc": 0.8416,
+    "pr_auc": 0.6299,
+    "brier_score": 0.1671,
+    "precision": 0.5807,
+    "recall": 0.6444,
+    "f1": 0.6109,
+    "top_decile_lift": 2.8055,
+    "test_base_churn_rate": 0.2654
+  }
+}
